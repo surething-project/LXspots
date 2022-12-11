@@ -1,0 +1,1043 @@
+1564828663,""
+1564828609350,(38.709591103, -9.133600042),22.785031558052566,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone de Leonardo Magalhães (6",a2:b0:3d:77:61:81,[WPA2-PSK-CCMP][ESS],2437 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2447 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2427 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564828673,""
+1564828673999,(38.709663433, -9.133580647),93.9015716148517,12.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2447 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564828683,""
+1564828683999,(38.709659072, -9.133581007),87.29892865109751,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-241761",5c:e7:bf:e1:53:84,[WPA2-PSK-CCMP][ESS],2462 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564828693,""
+1564828693999,(38.709657624, -9.133581080),84.63416143548153,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_95B4",e0:e6:2e:84:95:b4,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone de Leonardo Magalhães (6",a2:b0:3d:77:61:81,[WPA2-PSK-CCMP][ESS],2437 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-241761",5c:e7:bf:e1:53:84,[WPA2-PSK-CCMP][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564828703,""
+1564828703999,(38.709657624, -9.133581080),73.91314370517361,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone de Leonardo Magalhães (6",a2:b0:3d:77:61:81,[WPA2-PSK-CCMP][ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Wi-Fi CARRIS",04:f0:21:45:86:d1,[ESS],2437 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564828713,""
+1564828713999,(38.709657624, -9.133581080),72.90998255288223,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone de Leonardo Magalhães (6",a2:b0:3d:77:61:81,[WPA2-PSK-CCMP][ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:86:d1,[ESS],2437 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564828723,""
+1564828723999,(38.709655250, -9.133533556),72.47391419218428,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:86:d1,[ESS],2437 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone de Leonardo Magalhães (6",a2:b0:3d:77:61:81,[WPA2-PSK-CCMP][ESS],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:05:f9,[ESS],5180 MHz,-89 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+
+1564828733,""
+1564828733999,(38.709660734, -9.133539102),69.06763114808804,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:86:d1,[ESS],2437 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone de Leonardo Magalhães (6",a2:b0:3d:77:61:81,[WPA2-PSK-CCMP][ESS],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:05:f9,[ESS],5180 MHz,-88 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564828743,""
+1564828743999,(38.709662316, -9.133540642),65.76630680115414,6.0
+"Wi-Fi CARRIS",04:f0:21:45:86:d1,[ESS],2437 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:05:f9,[ESS],5180 MHz,-85 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564828753,""
+1564828753999,(38.709662857, -9.133543449),63.65466367990148,6.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:86:d1,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:05:f9,[ESS],5180 MHz,-86 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564828763,""
+1564828763999,(38.709662273, -9.133548726),62.87340080633534,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564828773,""
+1564828773999,(38.709663203, -9.133553899),63.41384662021004,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RETALIS WI FI",e0:e6:2e:62:84:44,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564828783,""
+1564828783999,(38.709650835, -9.133554652),64.28562819178566,6.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RETALIS WI FI",e0:e6:2e:62:84:44,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564828793,""
+1564828793999,(38.709653157, -9.133552947),62.78695216581172,4.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS-Internet-Movel-9EEF",04:02:1f:b6:9e:ef,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2432 MHz,-76 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564828803,""
+1564828803999,(38.709653537, -9.133556859),61.191143005388106,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:19,[ESS],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564828813,""
+1564828813999,(38.709655909, -9.133563568),59.985396166062415,4.0
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:19,[ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:fd:73,[ESS],5180 MHz,-81 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+
+1564828823,""
+1564828823999,(38.709658376, -9.133566036),59.34974943480029,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:19,[ESS],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:fd:73,[ESS],5180 MHz,-84 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564828833,""
+1564828833999,(38.709655176, -9.133561333),58.882142017896804,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Lisbon Village Apartments ",c0:25:e9:02:a3:0c,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2462 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:19,[ESS],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564828843,""
+1564828843999,(38.709651748, -9.133565535),58.06316803832238,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564828853,""
+1564828853999,(38.709651409, -9.133572571),58.064860299063966,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564828863,""
+1564828863999,(38.709650266, -9.133569383),59.31275250072852,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564828873,""
+1564828873999,(38.709642590, -9.133552045),59.93192705841201,4.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564828883,""
+1564828883999,(38.709635188, -9.133539197),60.82509843084275,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-WiFi",00:06:91:40:ae:d2,[ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564828893,""
+1564828893999,(38.709641515, -9.133557438),61.05528080968644,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564828903,""
+1564828903999,(38.709637622, -9.133565508),61.19238483337803,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564828913,""
+1564828913999,(38.709644639, -9.133572167),61.29708670076293,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564828923,""
+1564828923999,(38.709650969, -9.133586432),60.30967826095414,6.0
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564828933,""
+1564828933999,(38.709652204, -9.133594944),60.05703951481556,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564828943,""
+1564828943999,(38.709663944, -9.133612633),59.47372931610644,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564828953,""
+1564828953999,(38.709673495, -9.133623971),58.95721814519575,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAPCA2D",26:18:1d:43:ca:2d,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"NOS_Internet_Movel_3EF6",a8:a1:98:7f:3e:f6,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2447 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564828963,""
+1564828963999,(38.709668074, -9.133625764),58.30484128130512,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564828973,""
+1564828973999,(38.709662425, -9.133633700),57.54949340215301,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-86 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2457 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564828981,""
+1564828980999,(38.709670054, -9.133634123),57.20634257604091,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2427 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564828993,""
+1564828993999,(38.709696907, -9.133619185),56.6867103942092,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564829003,""
+1564829003999,(38.709695784, -9.133622259),56.89609771808622,4.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI-E5172-838F",88:ce:fa:4d:83:8f,[WPA2-PSK-CCMP+TKIP][ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829013,""
+1564829013999,(38.709683941, -9.133616088),58.10418148589475,4.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2457 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829023,""
+1564829023999,(38.709674660, -9.133601774),59.336526946835,6.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CITYRAMA WIFI",04:f0:21:2c:f1:22,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2457 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829033,""
+1564829033999,(38.709660324, -9.133580669),61.16750554847767,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CITYRAMA WIFI",04:f0:21:2c:f1:22,[ESS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-91 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564829043,""
+1564829043999,(38.709653351, -9.133574937),62.28071614769952,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2427 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564829053,""
+1564829053999,(38.709669187, -9.133592006),62.335191777591135,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-31FE6C",fe:2d:5e:31:fe:6c,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564829063,""
+1564829063999,(38.709673928, -9.133592914),61.990040101056444,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Vodafone-8E6369",9c:97:26:8e:63:69,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829073,""
+1564829073999,(38.709682029, -9.133596936),62.487838496696355,4.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_7AD2",9c:4f:cf:5b:7a:d2,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-31FE6C",fe:2d:5e:31:fe:6c,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI-E5172-838F",88:ce:fa:4d:83:8f,[WPA2-PSK-CCMP+TKIP][ESS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829083,""
+1564829083999,(38.709684013, -9.133601617),63.530606249695865,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-8E6369",9c:97:26:8e:63:69,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_7AD2",9c:4f:cf:5b:7a:d2,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2427 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-92 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564829093,""
+1564829093999,(38.709685866, -9.133601659),64.7667382917844,4.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2457 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2427 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Vodafone-8E6369",9c:97:26:8e:63:69,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829103,""
+1564829103999,(38.709684401, -9.133585530),65.13386651619996,4.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RETALIS WI FI",5c:77:76:05:c5:34,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2452 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI-E5172-838F",88:ce:fa:4d:83:8f,[WPA2-PSK-CCMP+TKIP][ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564829113,""
+1564829113999,(38.709684057, -9.133581447),65.10825298088534,4.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RETALIS WI FI",5c:77:76:05:c5:34,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2452 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_6DEB",e4:e1:30:c2:6d:eb,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_7AD2",9c:4f:cf:5b:7a:d2,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"HUAWEI-E5172-838F",88:ce:fa:4d:83:8f,[WPA2-PSK-CCMP+TKIP][ESS],2437 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-0541D0",9c:97:26:05:41:d0,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2457 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829123,""
+1564829123999,(38.709689084, -9.133583263),64.62754582151815,4.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RETALIS WI FI",5c:77:76:05:c5:34,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2452 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_6DEB",e4:e1:30:c2:6d:eb,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-0541D0",9c:97:26:05:41:d0,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-8E6369",9c:97:26:8e:63:69,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829133,""
+1564829132999,(38.709690421, -9.133586525),63.89312793011708,4.0
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RETALIS WI FI",5c:77:76:05:c5:34,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2452 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-8E6369",9c:97:26:8e:63:69,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2427 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829143,""
+1564829143999,(38.709687772, -9.133593968),63.412054516187624,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2457 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564829153,""
+1564829153999,(38.709692027, -9.133587580),62.64776430946117,4.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2457 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2427 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829163,""
+1564829163999,(38.709694812, -9.133596198),61.57928677715139,4.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2427 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2457 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564829173,""
+1564829173999,(38.709697926, -9.133611583),60.59658913848587,4.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:88:99,[ESS],2437 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:fd:e5,[ESS],5180 MHz,-85 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-94 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829183,""
+1564829183999,(38.709703031, -9.133608281),60.577094830750134,4.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:88:99,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829193,""
+1564829193999,(38.709699478, -9.133606488),61.00190150714891,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:81:a2,[ESS][WPS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829203,""
+1564829203999,(38.709671787, -9.133626352),60.41494073735514,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2427 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829213,""
+1564829213999,(38.709667155, -9.133628000),59.394722751380115,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:81:a2,[ESS][WPS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829223,""
+1564829223999,(38.709666429, -9.133634660),59.107692366838776,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:81:a2,[ESS][WPS],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2457 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829233,""
+1564829233999,(38.709669003, -9.133620557),59.1698949859162,4.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564829243,""
+1564829243999,(38.709676637, -9.133617973),59.031527907917585,4.0
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829253,""
+1564829253999,(38.709693520, -9.133645162),58.55607210510827,4.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2427 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829263,""
+1564829263999,(38.709692784, -9.133644812),58.771109339307266,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:86:c8,[ESS],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:f5:95,[ESS],5180 MHz,-89 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"My ASUS",2c:56:dc:b8:78:ac,[WPA2-PSK-CCMP][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-8E6369",9c:97:26:8e:63:69,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564829273,""
+1564829273999,(38.709692076, -9.133642777),59.2091562241833,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:86:c8,[ESS],2437 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:f5:95,[ESS],5180 MHz,-78 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564829283,""
+1564829283999,(38.709690509, -9.133640003),59.196115779850075,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:86:c8,[ESS],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:f5:95,[ESS],5180 MHz,-84 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2427 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829293,""
+1564829293999,(38.709689921, -9.133639256),59.02430822173089,6.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-8E6369",9c:97:26:8e:63:69,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829303,""
+1564829303999,(38.709688829, -9.133639915),58.85292230606651,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829313,""
+1564829313999,(38.709687669, -9.133640132),58.873175545564564,6.0
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-8E6369",9c:97:26:8e:63:69,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829323,""
+1564829323999,(38.709687121, -9.133639718),58.75763471251965,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-94 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829333,""
+1564829333999,(38.709687683, -9.133637305),58.760351509330185,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-8E6369",9c:97:26:8e:63:69,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829343,""
+1564829343999,(38.709688051, -9.133634583),58.856734853129275,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829353,""
+1564829353999,(38.709687802, -9.133633151),58.75999383032082,6.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:51,[ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2457 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-8E6369",9c:97:26:8e:63:69,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829363,""
+1564829363999,(38.709687754, -9.133632917),58.77529745228947,6.0
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:51,[ESS],2437 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:f5:94,[ESS],5180 MHz,-87 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829373,""
+1564829373999,(38.709686249, -9.133624311),58.68275607150672,4.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:f5:94,[ESS],5180 MHz,-87 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2457 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-8E6369",9c:97:26:8e:63:69,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-91 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2427 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829383,""
+1564829383999,(38.709692709, -9.133602684),58.55062374001524,4.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829393,""
+1564829393999,(38.709724864, -9.133607123),58.43638970641561,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:04:c4,[ESS],5180 MHz,-85 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"My ASUS",2c:56:dc:b8:78:ac,[WPA2-PSK-CCMP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829403,""
+1564829403999,(38.709733489, -9.133622183),58.35808540604686,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:04:c4,[ESS],5180 MHz,-85 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829413,""
+1564829413999,(38.709733336, -9.133622948),58.58512514966473,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:78:0a,[ESS],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:04:c4,[ESS],5180 MHz,-76 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829423,""
+1564829423999,(38.709733063, -9.133622950),58.687238830518545,6.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2427 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829433,""
+1564829432999,(38.709731840, -9.133621631),58.91247496894662,6.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829443,""
+1564829443999,(38.709728818, -9.133619758),58.95993809081047,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-0541D0",9c:97:26:05:41:d0,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829453,""
+1564829453999,(38.709724386, -9.133616748),59.6697717009005,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829463,""
+1564829463999,(38.709721616, -9.133615507),60.17361470663982,6.0
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:3f,[ESS],2437 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:06:17,[ESS],5180 MHz,-86 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI-E5172-838F",88:ce:fa:4d:83:8f,[WPA2-PSK-CCMP+TKIP][ESS],2437 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829473,""
+1564829473999,(38.709713863, -9.133626825),60.1675252250822,6.0
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:3f,[ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829483,""
+1564829483999,(38.709708900, -9.133625702),60.09371711433352,8.0
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829493,""
+1564829493999,(38.709691786, -9.133661277),60.070161160695406,6.0
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-40 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2427 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829503,""
+1564829503999,(38.709691567, -9.133662352),59.851164686309495,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2427 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829513,""
+1564829513999,(38.709692043, -9.133663178),59.74273537008867,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829523,""
+1564829523999,(38.709691301, -9.133663855),59.84715635291468,6.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-91 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564829533,""
+1564829533999,(38.709649449, -9.133527418),59.690502789440536,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829543,""
+1564829543999,(38.709649671, -9.133531009),60.37022412789467,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:82:36,[ESS][WPS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829553,""
+1564829552999,(38.709656318, -9.133562361),60.55752062745154,4.0
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2427 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:82:36,[ESS][WPS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fe:ec:da:3f:92:1f,[ESS],5180 MHz,-91 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564829559,""
+1564829559999,(38.709660410, -9.133577991),60.414179678830585,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:82:36,[ESS][WPS],2462 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-F3A8A7",58:98:35:f3:a8:a7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829563,""
+1564829562999,(38.709662899, -9.133580546),60.31198657734638,4.0
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:82:36,[ESS][WPS],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829569,""
+1564829562999,(38.709662899, -9.133580546),60.31198657734638,4.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:82:36,[ESS][WPS],2462 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564829585,""
+1564829562999,(38.709662899, -9.133580546),60.31198657734638,4.0
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",10:30:47:95:15:9b,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+

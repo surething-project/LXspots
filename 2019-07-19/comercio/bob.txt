@@ -1,0 +1,195 @@
+1563544693,""
+"YELLOWBUS",00:50:18:68:81:cc,[WPA2-PSK-CCMP+TKIP][WPS][ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"P_AGUA",80:2a:a8:11:2e:db,[WPA2-PSK-CCMP][ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Alice Yzweily",2a:a0:2b:8d:ee:a8,[WPA2-PSK-CCMP][ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:82:d6,[WPS][ESS],2442 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:95:fb:70,[WPA2-EAP-CCMP][ESS],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:f1:37:51,[ESS],2462 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Anna’s iPhone",e2:d0:12:a6:65:98,[WPA2-PSK-CCMP][ESS],2462 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:76:41,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Bruno's phone",0a:c5:e1:74:6e:1b,[WPA2-PSK-CCMP][ESS],2437 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NSIPrivate",6a:72:51:6c:c8:5e,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1563544706,""
+1563544701000,(38.708510072, -9.136848582),25.19496495835483,19.0
+"YELLOWBUS",00:50:18:68:81:cc,[WPA2-PSK-CCMP+TKIP][WPS][ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"P_AGUA",80:2a:a8:11:2e:db,[WPA2-PSK-CCMP][ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Alice Yzweily",2a:a0:2b:8d:ee:a8,[WPA2-PSK-CCMP][ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:95:fb:70,[WPA2-EAP-CCMP][ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:76:41,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Bruno's phone",0a:c5:e1:74:6e:1b,[WPA2-PSK-CCMP][ESS],2437 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NSIPrivate",6a:72:51:6c:c8:5e,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1563545611,""
+1563545611000,(38.708470310, -9.136794067),68.77971745282412,27.35645
+"AndroidAP",26:18:1d:eb:50:4c,[WPA2-PSK-CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:83:10,[WPS][ESS],2467 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1563545856,""
+1563545851000,(38.708430805, -9.136823457),64.52927553560585,20.543995
+"Queres ? Paga",a8:c8:3a:26:79:a2,[WPA2-PSK-CCMP][ESS],2437 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CANCAN GUEST",82:2a:a8:5a:d6:4b,[WPA2-PSK-CCMP][ESS],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",4c:5e:0c:6d:d0:89,[WPA2-PSK-CCMP][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:83:10,[WPS][ESS],2467 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:89:9c,[ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1563545857,""
+1563545851000,(38.708430805, -9.136823457),64.52927553560585,20.543995
+"Queres ? Paga",a8:c8:3a:26:79:a2,[WPA2-PSK-CCMP][ESS],2437 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CANCAN GUEST",82:2a:a8:5a:d6:4b,[WPA2-PSK-CCMP][ESS],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",4c:5e:0c:6d:d0:89,[WPA2-PSK-CCMP][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:83:10,[WPS][ESS],2467 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:89:9c,[ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Talenter TP",bc:25:e0:f5:b7:4b,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:b7:ca:d0,[WPA2-EAP-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][ESS],2422 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HP-Print-AF-LaserJet 1102",54:35:30:31:e6:af,[ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1563545860,""
+1563545851000,(38.708430805, -9.136823457),64.52927553560585,20.543995
+"Queres ? Paga",a8:c8:3a:26:79:a2,[WPA2-PSK-CCMP][ESS],2437 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CANCAN GUEST",82:2a:a8:5a:d6:4b,[WPA2-PSK-CCMP][ESS],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",4c:5e:0c:6d:d0:89,[WPA2-PSK-CCMP][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:83:10,[WPS][ESS],2467 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:89:9c,[ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Talenter TP",bc:25:e0:f5:b7:4b,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:b7:ca:d0,[WPA2-EAP-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][ESS],2422 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HP-Print-AF-LaserJet 1102",54:35:30:31:e6:af,[ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI-A689",9c:b2:b2:dc:a6:89,[WPA2-PSK-CCMP][WPS][ESS],2432 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"P_AGUA_GUEST",82:2a:a8:11:2e:db,[WPA2-PSK-CCMP][ESS],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_4C91",5c:77:76:5c:4c:91,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2467 MHz,-93 dBm,CenterFreq0 2457 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"FollowMe WiFi 503",64:d1:54:7e:fa:c1,[ESS],2412 MHz,-90 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"MINISTERIUM_GUEST",d6:ca:6d:6d:f0:f0,[ESS],2422 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1563545867,""
+1563545861000,(38.708430312, -9.136824727),64.96388811990619,4.9
+"Queres ? Paga",a8:c8:3a:26:79:a2,[WPA2-PSK-CCMP][ESS],2437 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CANCAN GUEST",82:2a:a8:5a:d6:4b,[WPA2-PSK-CCMP][ESS],2462 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",4c:5e:0c:6d:d0:89,[WPA2-PSK-CCMP][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:83:10,[WPS][ESS],2467 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:89:9c,[ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Talenter TP",bc:25:e0:f5:b7:4b,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:b7:ca:d0,[WPA2-EAP-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][ESS],2422 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HP-Print-AF-LaserJet 1102",54:35:30:31:e6:af,[ESS],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI-A689",9c:b2:b2:dc:a6:89,[WPA2-PSK-CCMP][WPS][ESS],2432 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"P_AGUA_GUEST",82:2a:a8:11:2e:db,[WPA2-PSK-CCMP][ESS],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_4C91",5c:77:76:5c:4c:91,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2467 MHz,-93 dBm,CenterFreq0 2457 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"FollowMe WiFi 503",64:d1:54:7e:fa:c1,[ESS],2412 MHz,-90 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"MINISTERIUM_GUEST",d6:ca:6d:6d:f0:f0,[ESS],2422 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"P_AGUA",80:2a:a8:11:2e:db,[WPA2-PSK-CCMP][ESS],2462 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CANCAN",80:2a:a8:5a:d6:4b,[WPA2-PSK-CCMP][ESS],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NSIPrivate",6a:72:51:6c:c8:5e,[WPA2-PSK-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Zanga - Nokia Lumia 630 DS",20:a9:9b:20:ad:06,[WPA2-PSK-CCMP][WPS][ESS][P2P],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RETALIS WI FI",e0:e6:2e:4b:7b:4b,[WPA-PSK-TKIP][WPA2-PSK-TKIP][ESS],2447 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",b4:ec:02:c2:06:67,[WPA2-PSK-CCMP][ESS],2467 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:c8:50:a0,[WPA2-EAP-CCMP][ESS],2462 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1563545877,""
+1563545861000,(38.708430312, -9.136824727),64.96388811990619,4.9
+"CANCAN GUEST",82:2a:a8:5a:d6:4b,[WPA2-PSK-CCMP][ESS],2462 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:83:10,[WPS][ESS],2467 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Talenter TP",bc:25:e0:f5:b7:4b,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][ESS],2422 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HP-Print-AF-LaserJet 1102",54:35:30:31:e6:af,[ESS],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI-A689",9c:b2:b2:dc:a6:89,[WPA2-PSK-CCMP][WPS][ESS],2432 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"P_AGUA_GUEST",82:2a:a8:11:2e:db,[WPA2-PSK-CCMP][ESS],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_4C91",5c:77:76:5c:4c:91,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2467 MHz,-93 dBm,CenterFreq0 2457 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"FollowMe WiFi 503",64:d1:54:7e:fa:c1,[ESS],2412 MHz,-90 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"MINISTERIUM_GUEST",d6:ca:6d:6d:f0:f0,[ESS],2422 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"P_AGUA",80:2a:a8:11:2e:db,[WPA2-PSK-CCMP][ESS],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CANCAN",80:2a:a8:5a:d6:4b,[WPA2-PSK-CCMP][ESS],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NSIPrivate",6a:72:51:6c:c8:5e,[WPA2-PSK-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Zanga - Nokia Lumia 630 DS",20:a9:9b:20:ad:06,[WPA2-PSK-CCMP][WPS][ESS][P2P],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RETALIS WI FI",e0:e6:2e:4b:7b:4b,[WPA-PSK-TKIP][WPA2-PSK-TKIP][ESS],2447 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",b4:ec:02:c2:06:67,[WPA2-PSK-CCMP][ESS],2467 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:c8:50:a0,[WPA2-EAP-CCMP][ESS],2462 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Jyrin Mate RS",38:37:8b:f8:1b:ee,[WPA2-PSK-CCMP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AuraINT_VDF",50:5d:ac:e9:00:44,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2417 MHz,-86 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Ariana",c4:93:d9:10:a6:34,[WPA2-PSK-CCMP][ESS],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][ESS],2472 MHz,-95 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1563545879,""
+1563545861000,(38.708430312, -9.136824727),64.96388811990619,4.9
+"CANCAN GUEST",82:2a:a8:5a:d6:4b,[WPA2-PSK-CCMP][ESS],2462 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Talenter TP",bc:25:e0:f5:b7:4b,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI-A689",9c:b2:b2:dc:a6:89,[WPA2-PSK-CCMP][WPS][ESS],2432 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"P_AGUA_GUEST",82:2a:a8:11:2e:db,[WPA2-PSK-CCMP][ESS],2462 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FollowMe WiFi 503",64:d1:54:7e:fa:c1,[ESS],2412 MHz,-81 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"P_AGUA",80:2a:a8:11:2e:db,[WPA2-PSK-CCMP][ESS],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CANCAN",80:2a:a8:5a:d6:4b,[WPA2-PSK-CCMP][ESS],2462 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",b4:ec:02:c2:06:67,[WPA2-PSK-CCMP][ESS],2467 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Jyrin Mate RS",38:37:8b:f8:1b:ee,[WPA2-PSK-CCMP][ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AuraINT_VDF",50:5d:ac:e9:00:44,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2417 MHz,-86 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Ariana",c4:93:d9:10:a6:34,[WPA2-PSK-CCMP][ESS],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][ESS],2472 MHz,-95 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:c8:82:e0,[WPA2-EAP-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:65:c9,[ESS],2437 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1563545886,""
+1563545861000,(38.708430312, -9.136824727),64.96388811990619,4.9
+"CANCAN GUEST",82:2a:a8:5a:d6:4b,[WPA2-PSK-CCMP][ESS],2462 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Talenter TP",bc:25:e0:f5:b7:4b,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI-A689",9c:b2:b2:dc:a6:89,[WPA2-PSK-CCMP][WPS][ESS],2432 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"P_AGUA_GUEST",82:2a:a8:11:2e:db,[WPA2-PSK-CCMP][ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FollowMe WiFi 503",64:d1:54:7e:fa:c1,[ESS],2412 MHz,-81 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"P_AGUA",80:2a:a8:11:2e:db,[WPA2-PSK-CCMP][ESS],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CANCAN",80:2a:a8:5a:d6:4b,[WPA2-PSK-CCMP][ESS],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",b4:ec:02:c2:06:67,[WPA2-PSK-CCMP][ESS],2467 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Jyrin Mate RS",38:37:8b:f8:1b:ee,[WPA2-PSK-CCMP][ESS],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AuraINT_VDF",50:5d:ac:e9:00:44,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2417 MHz,-86 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Ariana",c4:93:d9:10:a6:34,[WPA2-PSK-CCMP][ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][ESS],2472 MHz,-95 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:c8:82:e0,[WPA2-EAP-CCMP][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:65:c9,[ESS],2437 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1563545887,""
+1563545861000,(38.708430312, -9.136824727),64.96388811990619,4.9
+"CANCAN GUEST",82:2a:a8:5a:d6:4b,[WPA2-PSK-CCMP][ESS],2462 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Talenter TP",bc:25:e0:f5:b7:4b,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI-A689",9c:b2:b2:dc:a6:89,[WPA2-PSK-CCMP][WPS][ESS],2432 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"P_AGUA_GUEST",82:2a:a8:11:2e:db,[WPA2-PSK-CCMP][ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FollowMe WiFi 503",64:d1:54:7e:fa:c1,[ESS],2412 MHz,-81 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"P_AGUA",80:2a:a8:11:2e:db,[WPA2-PSK-CCMP][ESS],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CANCAN",80:2a:a8:5a:d6:4b,[WPA2-PSK-CCMP][ESS],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",b4:ec:02:c2:06:67,[WPA2-PSK-CCMP][ESS],2467 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Jyrin Mate RS",38:37:8b:f8:1b:ee,[WPA2-PSK-CCMP][ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AuraINT_VDF",50:5d:ac:e9:00:44,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2417 MHz,-86 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Ariana",c4:93:d9:10:a6:34,[WPA2-PSK-CCMP][ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][ESS],2472 MHz,-95 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:c8:82:e0,[WPA2-EAP-CCMP][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:65:c9,[ESS],2437 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-CITYRAMA",04:f0:21:1a:6d:da,[ESS],2412 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:83:10,[WPS][ESS],2467 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1563545896,""
+1563545861000,(38.708430312, -9.136824727),64.96388811990619,4.9
+"CANCAN GUEST",82:2a:a8:5a:d6:4b,[WPA2-PSK-CCMP][ESS],2462 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Talenter TP",bc:25:e0:f5:b7:4b,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI-A689",9c:b2:b2:dc:a6:89,[WPA2-PSK-CCMP][WPS][ESS],2432 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"P_AGUA_GUEST",82:2a:a8:11:2e:db,[WPA2-PSK-CCMP][ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FollowMe WiFi 503",64:d1:54:7e:fa:c1,[ESS],2412 MHz,-81 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"P_AGUA",80:2a:a8:11:2e:db,[WPA2-PSK-CCMP][ESS],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CANCAN",80:2a:a8:5a:d6:4b,[WPA2-PSK-CCMP][ESS],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",b4:ec:02:c2:06:67,[WPA2-PSK-CCMP][ESS],2467 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Jyrin Mate RS",38:37:8b:f8:1b:ee,[WPA2-PSK-CCMP][ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AuraINT_VDF",50:5d:ac:e9:00:44,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2417 MHz,-86 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Ariana",c4:93:d9:10:a6:34,[WPA2-PSK-CCMP][ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][ESS],2472 MHz,-95 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:c8:82:e0,[WPA2-EAP-CCMP][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:65:c9,[ESS],2437 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-CITYRAMA",04:f0:21:1a:6d:da,[ESS],2412 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:83:10,[WPS][ESS],2467 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+

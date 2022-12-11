@@ -1,0 +1,948 @@
+1579438795,""
+1579438733154,(38.697169916, -9.205677815),118.39243022592441,48.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SamsungPA",bc:a5:8b:cc:0f:22,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Xperia Z5 Premium_27a1",40:b8:37:da:af:3e,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-78B3DE",b0:c1:9e:78:b3:de,[WPA2-PSK-CCMP][ESS],2462 MHz,-71 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579438805,""
+1579438804999,(38.697450347, -9.206028497),56.77464839581979,8.0
+"Xperia Z5 Premium_27a1",40:b8:37:da:af:3e,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SamsungPA",bc:a5:8b:cc:0f:22,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-78B3DE",b0:c1:9e:78:b3:de,[WPA2-PSK-CCMP][ESS],2462 MHz,-70 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:76:2e,[ESS],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-92 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579438815,""
+1579438814999,(38.697477729, -9.206006441),52.391994041957176,8.0
+"VodafoneMobileWiFi-78B3DE",b0:c1:9e:78:b3:de,[WPA2-PSK-CCMP][ESS],2462 MHz,-73 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Xperia Z5 Premium_27a1",40:b8:37:da:af:3e,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SamsungPA",bc:a5:8b:cc:0f:22,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:76:2e,[ESS],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579438825,""
+1579438824999,(38.697499208, -9.205998811),51.25302566496131,8.0
+"Xperia Z5 Premium_27a1",40:b8:37:da:af:3e,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-78B3DE",b0:c1:9e:78:b3:de,[WPA2-PSK-CCMP][ESS],2462 MHz,-74 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Harmon Mate20X 5G",74:59:09:2a:a6:77,[WPA2-PSK-CCMP][ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:76:e2,[ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170537",5c:e7:bf:e0:a3:38,[WPA2-PSK-CCMP][ESS],2422 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-285680",5c:e7:bf:e2:00:64,[WPA2-PSK-CCMP][ESS],2452 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579438835,""
+1579438834999,(38.697531070, -9.205988948),53.13197581955009,6.0
+"Xperia Z5 Premium_27a1",40:b8:37:da:af:3e,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:76:2e,[ESS],2437 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:3a:5b:3f,[ESS],5180 MHz,-88 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"CCBFree",a0:93:51:b6:c2:20,[ESS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579438845,""
+1579438844999,(38.697505307, -9.205974824),48.03665147506123,6.0
+"Xperia Z5 Premium_27a1",40:b8:37:da:af:3e,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:76:2e,[ESS],2437 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-78B3DE",b0:c1:9e:78:b3:de,[WPA2-PSK-CCMP][ESS],2462 MHz,-75 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:00:77,[ESS],5180 MHz,-79 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_9783",5c:77:76:bd:97:83,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-87 dBm,CenterFreq0 2462 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"WiFi FREE  Cemark",60:e3:27:76:19:ca,[ESS],2422 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579438855,""
+1579438854999,(38.697506558, -9.205977425),45.35494930062687,6.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Xperia Z5 Premium_27a1",40:b8:37:da:af:3e,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:76:2e,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-285680",5c:e7:bf:e2:00:64,[WPA2-PSK-CCMP][ESS],2452 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:00:77,[ESS],5180 MHz,-86 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"RoamWiFi-170537",5c:e7:bf:e0:a3:38,[WPA2-PSK-CCMP][ESS],2422 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS-A370",84:94:8c:7f:a3:78,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2427 MHz,-86 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Wi-Fi CARRIS",04:f0:21:45:76:e2,[ESS],2437 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RETALIS WI FI",e0:e6:2e:49:a5:19,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579438865,""
+1579438864999,(38.697513010, -9.205976717),44.71887260444711,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-78B3DE",b0:c1:9e:78:b3:de,[WPA2-PSK-CCMP][ESS],2462 MHz,-66 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Xperia Z5 Premium_27a1",40:b8:37:da:af:3e,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170537",5c:e7:bf:e0:a3:38,[WPA2-PSK-CCMP][ESS],2422 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS-A370",84:94:8c:7f:a3:78,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2427 MHz,-84 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"RETALIS WI FI",e0:e6:2e:49:a5:19,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-86 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579438875,""
+1579438874999,(38.697516402, -9.205970763),46.2905257493554,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-78B3DE",b0:c1:9e:78:b3:de,[WPA2-PSK-CCMP][ESS],2462 MHz,-71 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Xperia Z5 Premium_27a1",40:b8:37:da:af:3e,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:76:2e,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-84 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"RoamWiFi-170373",5c:e7:bf:e0:a2:94,[WPA2-PSK-CCMP][ESS],2442 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579438885,""
+1579438884999,(38.697520157, -9.205982447),46.56700317498791,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-78B3DE",b0:c1:9e:78:b3:de,[WPA2-PSK-CCMP][ESS],2462 MHz,-78 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-285680",5c:e7:bf:e2:00:64,[WPA2-PSK-CCMP][ESS],2452 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Xperia Z5 Premium_27a1",40:b8:37:da:af:3e,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-280039",5c:e7:bf:e1:ea:5b,[WPA2-PSK-CCMP][ESS],2452 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:76:2e,[ESS],2437 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:76:e2,[ESS],2437 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Renault Grande Scenic",5c:77:76:ab:40:29,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2447 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_45A1",e0:e6:2e:79:45:a1,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2427 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579438895,""
+1579438894999,(38.697524031, -9.205981384),45.396480072103024,6.0
+"Xperia Z5 Premium_27a1",40:b8:37:da:af:3e,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-280039",5c:e7:bf:e1:ea:5b,[WPA2-PSK-CCMP][ESS],2452 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_9B24",e4:e1:30:d8:9b:24,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2432 MHz,-87 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579438905,""
+1579438904999,(38.697520754, -9.205973155),44.28486960279157,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Xperia Z5 Premium_27a1",40:b8:37:da:af:3e,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_CC6B",88:9e:33:42:cc:6b,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579438915,""
+1579438914999,(38.697517087, -9.205961803),43.77072589611285,4.0
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170373",5c:e7:bf:e0:a2:94,[WPA2-PSK-CCMP][ESS],2442 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Xperia Z5 Premium_27a1",40:b8:37:da:af:3e,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_CC6B",88:9e:33:42:cc:6b,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-280039",5c:e7:bf:e1:ea:5b,[WPA2-PSK-CCMP][ESS],2452 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579438925,""
+1579438924999,(38.697517794, -9.205965107),43.471144524924554,4.0
+"Harmon Mate20X 5G",74:59:09:2a:a6:77,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170373",5c:e7:bf:e0:a2:94,[WPA2-PSK-CCMP][ESS],2442 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-280039",5c:e7:bf:e1:ea:5b,[WPA2-PSK-CCMP][ESS],2452 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-78B3DE",b0:c1:9e:78:b3:de,[WPA2-PSK-CCMP][ESS],2462 MHz,-86 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-87 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"WiFi FREE  Cemark",60:e3:27:76:19:ca,[ESS],2422 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS-A370",84:94:8c:7f:a3:78,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2427 MHz,-89 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"RETALIS WI FI",e0:e6:2e:49:a5:19,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579438935,""
+1579438934999,(38.697524886, -9.205967911),43.68401406593535,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170373",5c:e7:bf:e0:a2:94,[WPA2-PSK-CCMP][ESS],2442 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-87 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"WiFi FREE  Cemark",60:e3:27:76:19:ca,[ESS],2422 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RETALIS WI FI",e0:e6:2e:49:a5:19,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579438939,""
+1579438939999,(38.697523566, -9.205969669),43.62150069394642,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170373",5c:e7:bf:e0:a2:94,[WPA2-PSK-CCMP][ESS],2442 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170537",5c:e7:bf:e0:a3:38,[WPA2-PSK-CCMP][ESS],2422 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-285680",5c:e7:bf:e2:00:64,[WPA2-PSK-CCMP][ESS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_9B24",e4:e1:30:d8:9b:24,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2432 MHz,-90 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579438945,""
+1579438944999,(38.697526627, -9.205971209),43.58028187449084,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170373",5c:e7:bf:e0:a2:94,[WPA2-PSK-CCMP][ESS],2442 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Xperia Z5 Premium_27a1",40:b8:37:da:af:3e,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-78B3DE",b0:c1:9e:78:b3:de,[WPA2-PSK-CCMP][ESS],2462 MHz,-85 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI nova 3e",e4:a7:c5:93:1b:1b,[WPA2-PSK-CCMP][ESS],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-185836",5c:e7:bf:e0:de:fb,[WPA2-PSK-CCMP][ESS],2462 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Roamingman_0O1JOZ",30:89:d3:1b:73:4d,[WPA2-PSK-CCMP][ESS],2437 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579438955,""
+1579438954999,(38.697531463, -9.205983650),43.804848138475776,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Xperia Z5 Premium_27a1",40:b8:37:da:af:3e,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-78B3DE",b0:c1:9e:78:b3:de,[WPA2-PSK-CCMP][ESS],2462 MHz,-82 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:f0,[ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170373",5c:e7:bf:e0:a2:94,[WPA2-PSK-CCMP][ESS],2442 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS-A370",84:94:8c:7f:a3:78,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2427 MHz,-87 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"RoamWiFi-280039",5c:e7:bf:e1:ea:5b,[WPA2-PSK-CCMP][ESS],2452 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-88 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"#Skyroam_a6y",4a:c8:62:04:80:bd,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579438965,""
+1579438964999,(38.697531359, -9.205984277),44.25375617059581,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-285680",5c:e7:bf:e2:00:64,[WPA2-PSK-CCMP][ESS],2452 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-185836",5c:e7:bf:e0:de:fb,[WPA2-PSK-CCMP][ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-88 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Harmon Mate20X 5G",74:59:09:2a:a6:77,[WPA2-PSK-CCMP][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-280039",5c:e7:bf:e1:ea:5b,[WPA2-PSK-CCMP][ESS],2452 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579438975,""
+1579438974999,(38.697525146, -9.205985557),44.70389513498018,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170373",5c:e7:bf:e0:a2:94,[WPA2-PSK-CCMP][ESS],2442 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Harmon Mate20X 5G",74:59:09:2a:a6:77,[WPA2-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-185836",5c:e7:bf:e0:de:fb,[WPA2-PSK-CCMP][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-285680",5c:e7:bf:e2:00:64,[WPA2-PSK-CCMP][ESS],2452 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170537",5c:e7:bf:e0:a3:38,[WPA2-PSK-CCMP][ESS],2422 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Roamingman_0O1JOZ",30:89:d3:1b:73:4d,[WPA2-PSK-CCMP][ESS],2437 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:f0,[ESS],2437 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579438985,""
+1579438984999,(38.697519700, -9.205983967),44.721373993451735,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170373",5c:e7:bf:e0:a2:94,[WPA2-PSK-CCMP][ESS],2442 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-280039",5c:e7:bf:e1:ea:5b,[WPA2-PSK-CCMP][ESS],2452 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS-A370",84:94:8c:7f:a3:78,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2427 MHz,-83 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"RoamWiFi-285680",5c:e7:bf:e2:00:64,[WPA2-PSK-CCMP][ESS],2452 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:f0,[ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579438995,""
+1579438994999,(38.697508980, -9.205988721),44.658572374870445,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170373",5c:e7:bf:e0:a2:94,[WPA2-PSK-CCMP][ESS],2442 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS-A370",84:94:8c:7f:a3:78,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2427 MHz,-83 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-83 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-66C911",e4:a7:c5:6d:66:c9,[WPA2-PSK-CCMP][ESS][WPS],2432 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"WiFi FREE  Cemark",60:e3:27:76:19:ca,[ESS],2422 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI nova 3e",e4:a7:c5:93:1b:1b,[WPA2-PSK-CCMP][ESS],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439005,""
+1579439004999,(38.697509197, -9.205984888),44.7164995923616,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170373",5c:e7:bf:e0:a2:94,[WPA2-PSK-CCMP][ESS],2442 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-78B3DE",b0:c1:9e:78:b3:de,[WPA2-PSK-CCMP][ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS-A370",84:94:8c:7f:a3:78,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2427 MHz,-85 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-85 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"RoamWiFi-170537",5c:e7:bf:e0:a3:38,[WPA2-PSK-CCMP][ESS],2422 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439015,""
+1579439014999,(38.697512437, -9.205986966),44.57473519511353,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-8AF7BC",4c:f9:5d:8a:f7:c4,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2457 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:f0,[ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170373",5c:e7:bf:e0:a2:94,[WPA2-PSK-CCMP][ESS],2442 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439025,""
+1579439024999,(38.697516105, -9.205985125),44.80469536216601,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:f0,[ESS],2437 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170537",5c:e7:bf:e0:a3:38,[WPA2-PSK-CCMP][ESS],2422 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439035,""
+1579439034999,(38.697517824, -9.205972845),44.967631666405026,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:f0,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:04:ab,[ESS],5180 MHz,-85 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"VodafoneMobileWiFi-78B3DE",b0:c1:9e:78:b3:de,[WPA2-PSK-CCMP][ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_9B24",e4:e1:30:d8:9b:24,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2432 MHz,-88 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"RoamWiFi-280039",5c:e7:bf:e1:ea:5b,[WPA2-PSK-CCMP][ESS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439045,""
+1579439044999,(38.697519930, -9.205960015),45.15896747243316,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:f0,[ESS],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:04:ab,[ESS],5180 MHz,-79 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439055,""
+1579439054999,(38.697508392, -9.205963972),44.465517226778054,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170373",5c:e7:bf:e0:a2:94,[WPA2-PSK-CCMP][ESS],2442 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:f0,[ESS],2437 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439065,""
+1579439064999,(38.697506143, -9.205959924),44.31871329535304,6.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:f0,[ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-285680",5c:e7:bf:e2:00:64,[WPA2-PSK-CCMP][ESS],2452 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI-B310-D56E",0c:2c:54:fa:d5:6e,[WPA2-PSK-CCMP][ESS][WPS],2462 MHz,-91 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579439075,""
+1579439074999,(38.697514648, -9.205966750),44.35278808712506,6.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-285680",5c:e7:bf:e2:00:64,[WPA2-PSK-CCMP][ESS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-78B3DE",b0:c1:9e:78:b3:de,[WPA2-PSK-CCMP][ESS],2462 MHz,-91 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579439080,""
+1579439079999,(38.697531646, -9.205960574),44.443300767544116,6.0
+
+1579439085,""
+1579439084999,(38.697539174, -9.205955341),44.30629587402258,4.0
+
+1579439095,""
+1579439094999,(38.697542612, -9.205958278),43.98232244381778,4.0
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:f0,[ESS],2437 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:04:ab,[ESS],5180 MHz,-86 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"VodafoneMobileWiFi-78B3DE",b0:c1:9e:78:b3:de,[WPA2-PSK-CCMP][ESS],2462 MHz,-87 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"MW40V_CC6B",88:9e:33:42:cc:6b,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-88 dBm,CenterFreq0 2462 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"RoamWiFi-280039",5c:e7:bf:e1:ea:5b,[WPA2-PSK-CCMP][ESS],2452 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439105,""
+1579439104999,(38.697548597, -9.205967293),43.61478911603953,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI nova 3e",e4:a7:c5:93:1b:1b,[WPA2-PSK-CCMP][ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:f0,[ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-78B3DE",b0:c1:9e:78:b3:de,[WPA2-PSK-CCMP][ESS],2462 MHz,-86 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"MW40V_CC6B",88:9e:33:42:cc:6b,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-86 dBm,CenterFreq0 2462 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Wi-Fi CARRIS",04:f0:21:46:04:ab,[ESS],5180 MHz,-87 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439115,""
+1579439114999,(38.697549997, -9.205970686),43.49556378420775,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:f0,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:04:ab,[ESS],5180 MHz,-87 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"RoamWiFi-170373",5c:e7:bf:e0:a2:94,[WPA2-PSK-CCMP][ESS],2442 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_a6y",4a:c8:62:04:80:bd,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439125,""
+1579439124999,(38.697550785, -9.205972537),43.61510628951159,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:f0,[ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:04:ab,[ESS],5180 MHz,-83 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439135,""
+1579439134999,(38.697540891, -9.205984216),43.663843686229164,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:f0,[ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:04:ab,[ESS],5180 MHz,-85 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-78B3DE",b0:c1:9e:78:b3:de,[WPA2-PSK-CCMP][ESS],2462 MHz,-88 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439145,""
+1579439144999,(38.697537438, -9.205995134),43.171238373994065,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:f0,[ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:04:ab,[ESS],5180 MHz,-82 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Renault Grande Scenic",5c:77:76:ab:40:29,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2447 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439155,""
+1579439154999,(38.697536737, -9.205996709),43.28744876305348,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-78B3DE",b0:c1:9e:78:b3:de,[WPA2-PSK-CCMP][ESS],2462 MHz,-77 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Wi-Fi CARRIS",04:f0:21:46:04:ab,[ESS],5180 MHz,-81 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439165,""
+1579439164999,(38.697532574, -9.206019556),43.25752131346945,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:f0,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:04:ab,[ESS],5180 MHz,-84 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439175,""
+1579439174999,(38.697529403, -9.206017881),43.35379418880642,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:04:ab,[ESS],5180 MHz,-84 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:f0,[ESS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Roamingman_0O1JOZ",30:89:d3:1b:73:4d,[WPA2-PSK-CCMP][ESS],2437 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439185,""
+1579439184999,(38.697517985, -9.206003366),43.49870479205608,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:f0,[ESS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170373",5c:e7:bf:e0:a2:94,[WPA2-PSK-CCMP][ESS],2442 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI-B310-D56E",0c:2c:54:fa:d5:6e,[WPA2-PSK-CCMP][ESS][WPS],2432 MHz,-91 dBm,CenterFreq0 2442 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"RoamWiFi-280039",5c:e7:bf:e1:ea:5b,[WPA2-PSK-CCMP][ESS],2452 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439195,""
+1579439194999,(38.697524176, -9.205999406),43.56935527095882,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:04:ab,[ESS],5180 MHz,-86 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+
+1579439205,""
+1579439204999,(38.697527792, -9.205994234),43.52634368480679,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:f0,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:04:ab,[ESS],5180 MHz,-81 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"RoamWiFi-170373",5c:e7:bf:e0:a2:94,[WPA2-PSK-CCMP][ESS],2442 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Carro",14:a5:1a:c6:cf:17,[WPA2-PSK-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439215,""
+1579439214999,(38.697518786, -9.205990414),43.47532555762745,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:f0,[ESS],2437 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:04:ab,[ESS],5180 MHz,-74 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone Rita ",6e:12:bb:c2:9c:09,[WPA2-PSK-CCMP][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170537",5c:e7:bf:e0:a3:38,[WPA2-PSK-CCMP][ESS],2422 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-8AF7BC",4c:f9:5d:8a:f7:c4,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2457 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439223,""
+1579439223999,(38.697520059, -9.205987999),43.32306050408245,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:f0,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:04:ab,[ESS],5180 MHz,-89 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439235,""
+1579439234999,(38.697520972, -9.205986684),43.14791405556216,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:85:e2,[ESS],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:fe:33,[ESS],5180 MHz,-88 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439245,""
+1579439244999,(38.697520207, -9.205981838),43.01858550165437,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:fe:33,[ESS],5180 MHz,-86 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"Wi-Fi CARRIS",04:f0:21:45:85:e2,[ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3692",4a:51:69:35:36:92,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439255,""
+1579439254999,(38.697504434, -9.205985170),42.94526630338957,4.0
+"no_net",0c:41:3e:95:16:8e,[WPA2-PSK-CCMP][ESS][WPS],2462 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:57,[ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439265,""
+1579439264999,(38.697506147, -9.205986178),43.10585982970521,4.0
+"no_net",0c:41:3e:95:16:8e,[WPA2-PSK-CCMP][ESS][WPS],2462 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Harmon Mate20X 5G",74:59:09:2a:a6:77,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439275,""
+1579439274999,(38.697511470, -9.205994518),43.40266966327762,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"no_net",0c:41:3e:95:16:8e,[WPA2-PSK-CCMP][ESS][WPS],2462 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439285,""
+1579439284999,(38.697516923, -9.206000723),43.67529040604036,4.0
+"Wi-Fi CARRIS",04:f0:21:45:77:57,[ESS],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_a6y",4a:c8:62:04:80:bd,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439295,""
+1579439294999,(38.697524390, -9.205996666),43.84277260613791,4.0
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:57,[ESS],2437 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:fe:01,[ESS],5180 MHz,-85 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+
+1579439305,""
+1579439304999,(38.697525153, -9.205995240),43.91639564490139,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439315,""
+1579439314999,(38.697519718, -9.205992914),43.87025988840794,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_6565",88:9e:33:23:65:65,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2422 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:77:57,[ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439325,""
+1579439324999,(38.697523729, -9.205989782),43.75204752891132,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_a6y",4a:c8:62:04:80:bd,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439335,""
+1579439334999,(38.697539308, -9.205986523),43.67931761679072,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"WiFi FREE  Cemark",60:e3:27:76:19:ca,[ESS],2422 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-283673",5c:e7:bf:e1:f8:8d,[WPA2-PSK-CCMP][ESS],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-249203",5c:e7:bf:e1:70:96,[WPA2-PSK-CCMP][ESS],2437 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439345,""
+1579439344999,(38.697547067, -9.205979508),43.297525271166265,6.0
+
+1579439355,""
+1579439354999,(38.697582076, -9.205970498),43.56246782649269,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:78:01,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439365,""
+1579439364999,(38.697572208, -9.205975139),43.55073575058394,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAPD06D",7e:8b:b5:9b:d0:6d,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_F43C",e4:e1:30:ae:f4:3c,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS-A370",84:94:8c:7f:a3:78,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2427 MHz,-91 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579439375,""
+1579439374999,(38.697565555, -9.205977177),43.56502928003216,4.0
+"#Skyroam_a6y",4a:c8:62:04:80:bd,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Harmon Mate20X 5G",74:59:09:2a:a6:77,[WPA2-PSK-CCMP][ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:6d:44,[ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-71B4",e0:e6:2e:d8:71:b4,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2442 MHz,-91 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ZTE_CB75AD",60:14:66:cb:75:ad,[WPA2-PSK-CCMP][ESS],2437 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439385,""
+1579439385999,(38.697567739, -9.205976915),43.677727294599485,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:6d:44,[ESS],2437 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS-A370",84:94:8c:7f:a3:78,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2427 MHz,-87 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-87 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-249203",5c:e7:bf:e1:70:96,[WPA2-PSK-CCMP][ESS],2437 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439395,""
+1579439395999,(38.697567280, -9.205976565),43.847479786209504,4.0
+"Wi-Fi CARRIS",04:f0:21:45:6d:44,[ESS],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:01:7b,[ESS],5180 MHz,-83 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-84 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS-A370",84:94:8c:7f:a3:78,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2427 MHz,-88 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"NOS_Internet_Movel_45A1",e0:e6:2e:79:45:a1,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2427 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439404,""
+1579439403999,(38.697567697, -9.205976609),43.875263480117404,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ZTE_CB75AD",60:14:66:cb:75:ad,[WPA2-PSK-CCMP][ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:6d:44,[ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170537",5c:e7:bf:e0:a3:38,[WPA2-PSK-CCMP][ESS],2422 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439415,""
+1579439415999,(38.697571545, -9.205973295),43.89623572304696,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_a6y",4a:c8:62:04:80:bd,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439425,""
+1579439425999,(38.697565566, -9.205972913),44.024993745662954,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439435,""
+1579439435999,(38.697562077, -9.205973909),44.00717544677786,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-249203",5c:e7:bf:e1:70:96,[WPA2-PSK-CCMP][ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_45A1",e0:e6:2e:79:45:a1,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2427 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAPD06D",7e:8b:b5:9b:d0:6d,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439445,""
+1579439445999,(38.697561457, -9.205973867),43.9708042435332,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAPD06D",7e:8b:b5:9b:d0:6d,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_45A1",e0:e6:2e:79:45:a1,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2427 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-283673",5c:e7:bf:e1:f8:8d,[WPA2-PSK-CCMP][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-88 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"NOS-A370",84:94:8c:7f:a3:78,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2427 MHz,-90 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-78B3DE",b0:c1:9e:78:b3:de,[WPA2-PSK-CCMP][ESS],2462 MHz,-90 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439455,""
+1579439455999,(38.697540917, -9.205988806),43.67436746089408,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAPD06D",7e:8b:b5:9b:d0:6d,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-78 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-192455",5c:e7:bf:e0:ed:5b,[WPA2-PSK-CCMP][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS-A370",84:94:8c:7f:a3:78,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2427 MHz,-87 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"RoamWiFi-283673",5c:e7:bf:e1:f8:8d,[WPA2-PSK-CCMP][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Familia Soares",88:ad:d2:78:4a:1c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439465,""
+1579439465999,(38.697520655, -9.205991975),43.48740792945629,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAPD06D",7e:8b:b5:9b:d0:6d,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-283673",5c:e7:bf:e1:f8:8d,[WPA2-PSK-CCMP][ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-91 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579439475,""
+1579439475999,(38.697526098, -9.205988932),43.91241594774959,4.0
+"AndroidAPD06D",7e:8b:b5:9b:d0:6d,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-52 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP676e",66:7b:ce:0b:67:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439485,""
+1579439485999,(38.697518735, -9.205984160),43.664196494768376,4.0
+"AndroidAPD06D",7e:8b:b5:9b:d0:6d,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-52 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170537",5c:e7:bf:e0:a3:38,[WPA2-PSK-CCMP][ESS],2422 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_4vv",4a:c8:62:04:2f:5f,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-283673",5c:e7:bf:e1:f8:8d,[WPA2-PSK-CCMP][ESS],2462 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439495,""
+1579439495999,(38.697520697, -9.205977502),43.48736398385516,4.0
+"AndroidAPD06D",7e:8b:b5:9b:d0:6d,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"#Skyroam_a6y",4a:c8:62:04:80:bd,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-90 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-78B3DE",b0:c1:9e:78:b3:de,[WPA2-PSK-CCMP][ESS],2462 MHz,-90 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579439505,""
+1579439505999,(38.697518810, -9.205971503),43.34989662610002,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAPD06D",7e:8b:b5:9b:d0:6d,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS-A370",84:94:8c:7f:a3:78,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2427 MHz,-88 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"AndroidAP676e",66:7b:ce:0b:67:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439515,""
+1579439515999,(38.697515892, -9.205962572),43.38140615350987,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAPD06D",7e:8b:b5:9b:d0:6d,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP676e",66:7b:ce:0b:67:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"WiFi Hotspot 9265",c4:49:bb:b3:c2:e2,[WPA2-PSK-CCMP+TKIP][ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:6d:5d,[ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS-A370",84:94:8c:7f:a3:78,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2427 MHz,-90 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"RoamWiFi-281862",5c:e7:bf:e1:f1:7a,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-90 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"NOS_Internet_Movel_45A1",e0:e6:2e:79:45:a1,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2427 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439525,""
+1579439525999,(38.697516633, -9.205962023),43.55960432094832,4.0
+"AndroidAP676e",66:7b:ce:0b:67:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAPD06D",7e:8b:b5:9b:d0:6d,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:6d:5d,[ESS],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS-A370",84:94:8c:7f:a3:78,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2427 MHz,-89 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"MIDEIASINT",00:1d:aa:e8:02:98,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2462 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439535,""
+1579439535999,(38.697518805, -9.205963702),43.78216476246708,4.0
+"AndroidAP676e",66:7b:ce:0b:67:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS-A370",84:94:8c:7f:a3:78,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2427 MHz,-89 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579439545,""
+1579439545999,(38.697530832, -9.205964390),43.75167751495899,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP676e",66:7b:ce:0b:67:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS-A370",84:94:8c:7f:a3:78,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2427 MHz,-87 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-89 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Familia Soares",88:ad:d2:78:4a:1c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"GLKTB00256",f0:c7:7f:37:83:ba,[WPA2-PSK-CCMP][ESS][WPS],2417 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439555,""
+1579439555999,(38.697538093, -9.205965653),43.68388510381252,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"GLKTB00256",f0:c7:7f:37:83:ba,[WPA2-PSK-CCMP][ESS][WPS],2417 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Familia Soares",88:ad:d2:78:4a:1c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP676e",66:7b:ce:0b:67:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MIOWIFI-275288",5c:e7:bf:e1:d7:cc,[WPA2-PSK-CCMP][ESS],2442 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-249203",5c:e7:bf:e1:70:96,[WPA2-PSK-CCMP][ESS],2437 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-283673",5c:e7:bf:e1:f8:8d,[WPA2-PSK-CCMP][ESS],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439565,""
+1579439565999,(38.697551272, -9.205962817),43.761245997773294,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP676e",66:7b:ce:0b:67:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Familia Soares",88:ad:d2:78:4a:1c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:46:01:64,[ESS],5180 MHz,-89 dBm,CenterFreq0 5210 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+"NOS-A370",84:94:8c:7f:a3:78,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2427 MHz,-89 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-90 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579439575,""
+1579439575999,(38.697564654, -9.205961763),43.81639370292881,4.0
+"AndroidAP676e",66:7b:ce:0b:67:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:6d:5d,[ESS],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-192455",5c:e7:bf:e0:ed:5b,[WPA2-PSK-CCMP][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-249203",5c:e7:bf:e1:70:96,[WPA2-PSK-CCMP][ESS],2437 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439585,""
+1579439584999,(38.697567737, -9.205963988),43.9048688307985,4.0
+"AndroidAP676e",66:7b:ce:0b:67:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:6d:5d,[ESS],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",50:92:b9:68:ea:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"WiFi FREE  Cemark",60:e3:27:76:19:ca,[ESS],2422 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-90 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"NOS-A370",84:94:8c:7f:a3:78,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2427 MHz,-91 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579439595,""
+1579439595999,(38.697575794, -9.205959054),44.022820687373255,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP676e",66:7b:ce:0b:67:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",50:92:b9:68:ea:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-283673",5c:e7:bf:e1:f8:8d,[WPA2-PSK-CCMP][ESS],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-90 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579439605,""
+1579439605999,(38.697583773, -9.205954129),44.159416754462605,4.0
+
+1579439615,""
+1579439615999,(38.697585133, -9.205956253),44.31137930146773,4.0
+"AndroidAP676e",66:7b:ce:0b:67:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",50:92:b9:68:ea:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:6d:5d,[ESS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ATU-L21%01%CloudClone",88:11:96:7d:52:c1,[WPA2-PSK-CCMP][ESS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-185836",5c:e7:bf:e0:de:fb,[WPA2-PSK-CCMP][ESS],2462 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439625,""
+1579439625999,(38.697584392, -9.205956782),44.43696734111655,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP676e",66:7b:ce:0b:67:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",50:92:b9:68:ea:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ATU-L21%01%CloudClone",88:11:96:7d:52:c1,[WPA2-PSK-CCMP][ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:6d:5d,[ESS],2437 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439635,""
+1579439635999,(38.697584566, -9.205958120),44.616601293567214,4.0
+"AndroidAP",50:92:b9:68:ea:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP676e",66:7b:ce:0b:67:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:6d:5d,[ESS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-185836",5c:e7:bf:e0:de:fb,[WPA2-PSK-CCMP][ESS],2462 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439645,""
+1579439645999,(38.697591527, -9.205960677),44.70609507886278,4.0
+"AndroidAP",50:92:b9:68:ea:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP676e",66:7b:ce:0b:67:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-BARRAQUEIRO",04:f0:21:06:21:4d,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RETALIS WI FI",e0:e6:2e:79:48:3c,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2447 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439655,""
+1579439655999,(38.697581455, -9.205962222),44.49570914559211,4.0
+"AndroidAP",50:92:b9:68:ea:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP676e",66:7b:ce:0b:67:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Redmi",c8:3d:dc:67:d8:11,[WPA2-PSK-CCMP][ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS-A370",84:94:8c:7f:a3:78,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2427 MHz,-87 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-89 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"RoamWiFi-285680",5c:e7:bf:e2:00:64,[WPA2-PSK-CCMP][ESS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439665,""
+1579439665999,(38.697579411, -9.205963092),44.45036855864529,4.0
+"AndroidAP",50:92:b9:68:ea:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP676e",66:7b:ce:0b:67:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-170537",5c:e7:bf:e0:a3:38,[WPA2-PSK-CCMP][ESS],2422 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS-A370",84:94:8c:7f:a3:78,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2427 MHz,-78 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Redmi",c8:3d:dc:67:d8:11,[WPA2-PSK-CCMP][ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:6d:5d,[ESS],2437 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_WIFI_Fon",84:94:8c:7f:a3:79,[ESS],2427 MHz,-81 dBm,CenterFreq0 2417 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Familia Soares",88:ad:d2:78:4a:1c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_WIFI_Fon",84:94:8c:82:5b:f9,[ESS],2442 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-416609",9c:97:26:41:66:09,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-185836",5c:e7:bf:e0:de:fb,[WPA2-PSK-CCMP][ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",06:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ZON-0C30",84:94:8c:69:0c:38,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2467 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-8AF7BC",4c:f9:5d:8a:f7:c4,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2457 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_WIFI_Fon",84:94:8c:69:0c:39,[ESS],2467 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439675,""
+1579439675999,(38.697556195, -9.205966466),44.22815518430361,4.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",50:92:b9:68:ea:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP676e",66:7b:ce:0b:67:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Redmi",c8:3d:dc:67:d8:11,[WPA2-PSK-CCMP][ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RoamWiFi-249203",5c:e7:bf:e1:70:96,[WPA2-PSK-CCMP][ESS],2437 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439685,""
+1579439685999,(38.697554110, -9.205963183),44.36038322881104,6.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Redmi",c8:3d:dc:67:d8:11,[WPA2-PSK-CCMP][ESS],2437 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",50:92:b9:68:ea:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP676e",66:7b:ce:0b:67:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",8e:b8:4a:09:4b:f4,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_1BA5",e4:e1:30:06:1b:a5,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2427 MHz,-88 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI-B310-D56E",0c:2c:54:fa:d5:6e,[WPA2-PSK-CCMP][ESS][WPS],2432 MHz,-90 dBm,CenterFreq0 2442 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Honor 8",b0:89:00:b5:23:f0,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439688,""
+1579439688999,(38.697552497, -9.205964473),44.355872986431436,6.0
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Redmi",c8:3d:dc:67:d8:11,[WPA2-PSK-CCMP][ESS],2437 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP676e",66:7b:ce:0b:67:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",50:92:b9:68:ea:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:6d:5d,[ESS],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",00:1d:aa:7e:15:20,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2472 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579439695,""
+1579439694999,(38.697548782, -9.205972485),44.32495320735576,6.0
+"Redmi",c8:3d:dc:67:d8:11,[WPA2-PSK-CCMP][ESS],2437 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",50:92:b9:68:ea:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"mk7388_mbE_nomap",70:8a:09:15:06:7d,[WPA2-PSK-CCMP][ESS][WPS],2452 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP676e",66:7b:ce:0b:67:6e,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Familia Soares",88:ad:d2:78:4a:1c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CCBFree",a0:93:51:b6:da:20,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",8e:b8:4a:09:4b:f4,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+

@@ -1,0 +1,600 @@
+1564744567,""
+1564743845000,(38.709620120, -9.133662070),65.53515625,7.504
+
+1564744577,""
+1564744570000,(38.708578810, -9.136945220),87.431640625,18.224
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:c8:82:e0,[WPA2-EAP-CCMP][ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:c8:82:e1,[ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:8d:0d:a0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],5680 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:c8:82:ee,[ESS],5240 MHz,-89 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564744587,""
+1564744570000,(38.708578810, -9.136945220),87.431640625,18.224
+"RingCorp",84:3d:c6:f2:bf:e0,[WPA2-EAP-CCMP][ESS],2462 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:f2:bf:e1,[ESS],2462 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:95:fb:70,[WPA2-EAP-CCMP][ESS],2437 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:c8:82:e1,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:c8:82:e0,[WPA2-EAP-CCMP][ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"YELLOWBUS",00:50:18:68:82:fc,[WPA-EAP-CCMP+TKIP][WPA2-EAP-CCMP+TKIP][ESS],2467 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:c8:82:ee,[ESS],5240 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564744597,""
+1564744582000,(38.708719380, -9.136919740),78.375244140625,23.584
+"RingGuest",84:3d:c6:f2:bf:e1,[ESS],2462 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744605,""
+1564744592000,(38.708871770, -9.136875650),77.44134521484375,23.584
+"RingGuest",84:3d:c6:f2:bf:e1,[ESS],2462 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744615,""
+1564744602000,(38.708879640, -9.136879310),78.89556884765625,31.088001
+"RingGuest",84:3d:c6:f2:bf:e1,[ESS],2462 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744625,""
+1564744612000,(38.708881330, -9.136928040),83.36767578125,27.872002
+"RingGuest",84:3d:c6:f2:bf:e1,[ESS],2462 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744635,""
+1564744623000,(38.708752870, -9.136922000),81.88330078125,23.584
+"RingGuest",84:3d:c6:f2:bf:e1,[ESS],2462 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744645,""
+1564744631000,(38.708695210, -9.136896020),84.9515380859375,26.800001
+"RingGuest",84:3d:c6:f2:bf:e1,[ESS],2462 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744655,""
+1564744642000,(38.708713650, -9.136917800),79.7703857421875,30.016
+"RingGuest",84:3d:c6:f2:bf:e1,[ESS],2462 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744665,""
+1564744653000,(38.708632480, -9.136932050),81.1136474609375,31.088001
+"RingGuest",84:3d:c6:f2:bf:e1,[ESS],2462 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744675,""
+1564744661000,(38.708616870, -9.136938580),81.56964111328125,28.944
+"RingGuest",84:3d:c6:f2:bf:e1,[ESS],2462 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744687,""
+1564744672000,(38.708632480, -9.136951290),80.449951171875,23.584
+"Patricia wifi",94:0e:6b:04:e8:64,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:c8:82:ef,[WPA2-EAP-CCMP][ESS],5240 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564744697,""
+1564744682000,(38.708638930, -9.136915460),84.06683349609375,21.44
+"Patricia wifi",94:0e:6b:04:e8:64,[WPA2-PSK-CCMP][ESS],2412 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:c8:82:e0,[WPA2-EAP-CCMP][ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744707,""
+1564744692000,(38.708593990, -9.136953810),88.31463623046875,26.800001
+"Patricia wifi",94:0e:6b:04:e8:64,[WPA2-PSK-CCMP][ESS],2412 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:c8:82:e1,[ESS],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:c8:82:e0,[WPA2-EAP-CCMP][ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744717,""
+1564744702000,(38.708519360, -9.136973820),85.3533935546875,23.584
+"Patricia wifi",94:0e:6b:04:e8:64,[WPA2-PSK-CCMP][ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744725,""
+1564744712000,(38.708508260, -9.136978370),82.7615966796875,22.512001
+"Patricia wifi",94:0e:6b:04:e8:64,[WPA2-PSK-CCMP][ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744735,""
+1564744722000,(38.708520720, -9.136973330),81.6563720703125,31.088001
+"Patricia wifi",94:0e:6b:04:e8:64,[WPA2-PSK-CCMP][ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744745,""
+1564744733000,(38.708495570, -9.136974230),78.6195068359375,28.944
+"Patricia wifi",94:0e:6b:04:e8:64,[WPA2-PSK-CCMP][ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744755,""
+1564744741000,(38.708495160, -9.136973550),76.00653076171875,27.872002
+"Patricia wifi",94:0e:6b:04:e8:64,[WPA2-PSK-CCMP][ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744765,""
+1564744752000,(38.708486770, -9.136978980),75.58172607421875,22.512001
+"Patricia wifi",94:0e:6b:04:e8:64,[WPA2-PSK-CCMP][ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744775,""
+1564744762000,(38.708410420, -9.136955660),74.19293212890625,27.872002
+"Patricia wifi",94:0e:6b:04:e8:64,[WPA2-PSK-CCMP][ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744785,""
+1564744772000,(38.708465290, -9.136957860),69.303955078125,31.088001
+"Patricia wifi",94:0e:6b:04:e8:64,[WPA2-PSK-CCMP][ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744795,""
+1564744782000,(38.708461440, -9.136956570),66.9644775390625,19.296001
+"Patricia wifi",94:0e:6b:04:e8:64,[WPA2-PSK-CCMP][ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744807,""
+1564744792000,(38.708480500, -9.136950860),70.33062744140625,24.656
+
+1564744817,""
+1564744811000,(38.708516480, -9.136930460),71.26611328125,23.584
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:c8:82:e0,[WPA2-EAP-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:c8:82:e1,[ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744827,""
+1564744811000,(38.708516480, -9.136930460),71.26611328125,23.584
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744837,""
+1564744823000,(38.708562730, -9.136934070),76.2786865234375,40.736
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744845,""
+1564744832000,(38.708627620, -9.136927640),74.2215576171875,37.52
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744855,""
+1564744843000,(38.708770840, -9.136916410),73.56439208984375,36.448
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744865,""
+1564744853000,(38.708797660, -9.136922380),63.24395751953125,32.16
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744875,""
+1564744861000,(38.708776660, -9.136926070),63.73614501953125,21.44
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744885,""
+1564744872000,(38.708720300, -9.136925530),63.926513671875,22.512001
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744895,""
+1564744882000,(38.708610510, -9.136930100),62.031494140625,23.584
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744905,""
+1564744892000,(38.708538540, -9.136935110),65.61749267578125,24.656
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744915,""
+1564744902000,(38.708535780, -9.136930700),66.616943359375,27.872002
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744927,""
+1564744912000,(38.708543560, -9.136929950),71.99737548828125,28.944
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"FON_ZON-CITYRAMA",04:f0:21:1c:92:a9,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744937,""
+1564744931000,(38.708561690, -9.136933710),67.17279052734375,19.296001
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744947,""
+1564744931000,(38.708561690, -9.136933710),67.17279052734375,19.296001
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:c8:82:e1,[ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744957,""
+1564744942000,(38.708553990, -9.136944920),63.9013671875,23.584
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:65:d0,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744966,""
+1564744952000,(38.708498730, -9.136952790),70.78076171875,31.088001
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:65:d0,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744976,""
+1564744962000,(38.708476910, -9.136997780),74.82452392578125,21.44
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:65:d0,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744986,""
+1564744972000,(38.708482160, -9.136990420),79.9183349609375,20.368
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:65:d0,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564744996,""
+1564744982000,(38.708491980, -9.136996910),76.8968505859375,21.44
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:65:d0,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745006,""
+1564744992000,(38.708455910, -9.136981770),77.24005126953125,22.512001
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:65:d0,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745016,""
+1564745003000,(38.708420590, -9.136961100),77.1796875,30.016
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:65:d0,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745026,""
+1564745012000,(38.708443980, -9.136962280),78.76324462890625,30.016
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:65:d0,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745036,""
+1564745022000,(38.708483990, -9.136960620),78.88446044921875,27.872002
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:65:d0,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745048,""
+1564745032000,(38.708509430, -9.136962400),75.4813232421875,22.512001
+"*TUGE24190361621 百度翻译",7c:ba:cc:00:f0:e7,[WPA2-PSK-CCMP][WPS][ESS],2427 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Pik's iPhone",f2:99:b6:05:1b:6e,[WPA2-PSK-CCMP][ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745057,""
+1564745043000,(38.708583740, -9.136939470),86.3323974609375,33.232002
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745068,""
+1564745052000,(38.708629180, -9.136932670),80.665283203125,26.800001
+"Pik's iPhone",f2:99:b6:05:1b:6e,[WPA2-PSK-CCMP][ESS],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745078,""
+1564745062000,(38.708645450, -9.136938860),76.45843505859375,27.872002
+"RingCorp",84:3d:c6:95:fb:70,[WPA2-EAP-CCMP][ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Pik's iPhone",f2:99:b6:05:1b:6e,[WPA2-PSK-CCMP][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745086,""
+1564745072000,(38.708562720, -9.136941420),85.26312255859375,26.800001
+"RingCorp",84:3d:c6:95:fb:70,[WPA2-EAP-CCMP][ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Pik's iPhone",f2:99:b6:05:1b:6e,[WPA2-PSK-CCMP][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745096,""
+1564745082000,(38.708501630, -9.136969800),87.86639404296875,22.512001
+"RingCorp",84:3d:c6:95:fb:70,[WPA2-EAP-CCMP][ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Pik's iPhone",f2:99:b6:05:1b:6e,[WPA2-PSK-CCMP][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745106,""
+1564745092000,(38.708415300, -9.136948340),85.5321044921875,21.44
+"RingCorp",84:3d:c6:95:fb:70,[WPA2-EAP-CCMP][ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Pik's iPhone",f2:99:b6:05:1b:6e,[WPA2-PSK-CCMP][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745116,""
+1564745102000,(38.708441350, -9.136949220),99.27313232421875,27.872002
+"RingCorp",84:3d:c6:95:fb:70,[WPA2-EAP-CCMP][ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Pik's iPhone",f2:99:b6:05:1b:6e,[WPA2-PSK-CCMP][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745126,""
+1564745112000,(38.708533190, -9.136951400),98.96014404296875,27.872002
+"RingCorp",84:3d:c6:95:fb:70,[WPA2-EAP-CCMP][ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Pik's iPhone",f2:99:b6:05:1b:6e,[WPA2-PSK-CCMP][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745136,""
+1564745122000,(38.708579340, -9.136961420),98.9130859375,27.872002
+"RingCorp",84:3d:c6:95:fb:70,[WPA2-EAP-CCMP][ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Pik's iPhone",f2:99:b6:05:1b:6e,[WPA2-PSK-CCMP][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745146,""
+1564745133000,(38.708573580, -9.136952990),99.17242431640625,32.16
+"RingCorp",84:3d:c6:95:fb:70,[WPA2-EAP-CCMP][ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Pik's iPhone",f2:99:b6:05:1b:6e,[WPA2-PSK-CCMP][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745156,""
+1564745141000,(38.708587870, -9.136941790),99.68084716796875,24.656
+"RingCorp",84:3d:c6:95:fb:70,[WPA2-EAP-CCMP][ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Pik's iPhone",f2:99:b6:05:1b:6e,[WPA2-PSK-CCMP][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745168,""
+1564745152000,(38.708581070, -9.136926220),87.68170166015625,31.088001
+"YELLOWBUS",58:00:50:18:68:ca,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2417 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:c8:82:e1,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745178,""
+1564745163000,(38.708629230, -9.136894780),88.52740478515625,32.16
+"YELLOWBUS",58:00:50:18:68:ca,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2417 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745188,""
+1564745172000,(38.708748870, -9.136880710),86.37060546875,33.232002
+"YELLOWBUS",58:00:50:18:68:ca,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2417 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:95:fb:70,[WPA2-EAP-CCMP][ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745198,""
+1564745183000,(38.708714850, -9.136891270),98.25177001953125,30.016
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"YELLOWBUS",58:00:50:18:68:ca,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2417 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745206,""
+1564745193000,(38.708767690, -9.136882450),98.40863037109375,41.808002
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"YELLOWBUS",58:00:50:18:68:ca,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2417 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745216,""
+1564745203000,(38.708723010, -9.136895650),94.10601806640625,34.304
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"YELLOWBUS",58:00:50:18:68:ca,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2417 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745226,""
+1564745211000,(38.708725890, -9.136905830),96.12310791015625,20.368
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"YELLOWBUS",58:00:50:18:68:ca,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2417 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745236,""
+1564745222000,(38.708708460, -9.136907810),94.8824462890625,30.016
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"YELLOWBUS",58:00:50:18:68:ca,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2417 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745246,""
+1564745233000,(38.708732880, -9.136920100),103.90673828125,25.728
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"YELLOWBUS",58:00:50:18:68:ca,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2417 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745256,""
+1564745240000,(38.708749830, -9.136929860),105.000732421875,18.224
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"YELLOWBUS",58:00:50:18:68:ca,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2417 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745266,""
+1564745252000,(38.708727000, -9.136932760),98.2542724609375,30.016
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"YELLOWBUS",58:00:50:18:68:ca,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2417 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745276,""
+1564745262000,(38.708733630, -9.136935850),99.984619140625,25.728
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"YELLOWBUS",58:00:50:18:68:ca,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2417 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745288,""
+1564745272000,(38.708745310, -9.136939740),102.12457275390625,21.44
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745298,""
+1564745282000,(38.708764670, -9.136945390),87.44586181640625,25.728
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745308,""
+1564745293000,(38.708775410, -9.136944020),90.95843505859375,35.376
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_E927",9c:4f:cf:81:e9:27,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2427 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745318,""
+1564745311000,(38.708772720, -9.136982770),106.75103759765625,16.08
+"Leandro",ec:10:7b:5f:1d:0f,[WPA2-PSK-CCMP][ESS],2462 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745326,""
+1564745311000,(38.708772720, -9.136982770),106.75103759765625,16.08
+"Leandro",ec:10:7b:5f:1d:0f,[WPA2-PSK-CCMP][ESS],2462 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745336,""
+1564745322000,(38.708805350, -9.136982860),106.213623046875,17.152
+"Leandro",ec:10:7b:5f:1d:0f,[WPA2-PSK-CCMP][ESS],2462 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745346,""
+1564745332000,(38.708852240, -9.136942910),120.6551513671875,22.512001
+"Leandro",ec:10:7b:5f:1d:0f,[WPA2-PSK-CCMP][ESS],2462 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745356,""
+1564745342000,(38.708835830, -9.136925670),118.275146484375,24.656
+"Leandro",ec:10:7b:5f:1d:0f,[WPA2-PSK-CCMP][ESS],2462 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745366,""
+1564745352000,(38.708863600, -9.136933450),117.67083740234375,22.512001
+"Leandro",ec:10:7b:5f:1d:0f,[WPA2-PSK-CCMP][ESS],2462 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745376,""
+1564745362000,(38.708868120, -9.136946610),113.2198486328125,22.512001
+"Leandro",ec:10:7b:5f:1d:0f,[WPA2-PSK-CCMP][ESS],2462 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745386,""
+1564745372000,(38.708853100, -9.136958500),108.11798095703125,26.800001
+"Leandro",ec:10:7b:5f:1d:0f,[WPA2-PSK-CCMP][ESS],2462 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745396,""
+1564745382000,(38.708837130, -9.136966030),106.9478759765625,20.368
+"Leandro",ec:10:7b:5f:1d:0f,[WPA2-PSK-CCMP][ESS],2462 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745408,""
+1564745392000,(38.708830730, -9.136971920),102.995361328125,25.728
+"Leandro",ec:10:7b:5f:1d:0f,[WPA2-PSK-CCMP][ESS],2462 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:f2:bf:e0,[WPA2-EAP-CCMP][ESS],2462 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:95:fb:71,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:95:fb:70,[WPA2-EAP-CCMP][ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745418,""
+1564745402000,(38.708792560, -9.136963790),95.4937744140625,28.944
+"Leandro",ec:10:7b:5f:1d:0f,[WPA2-PSK-CCMP][ESS],2462 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:f2:bf:e0,[WPA2-EAP-CCMP][ESS],2462 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:f2:bf:e1,[ESS],2462 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745428,""
+1564745412000,(38.708724390, -9.136945860),92.12890625,30.016
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_9EC749",ec:1d:7f:9e:c7:49,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:82:3e,[WPS][ESS],2467 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745438,""
+1564745422000,(38.708705070, -9.136961030),100.02978515625,20.368
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:c8:82:e0,[WPA2-EAP-CCMP][ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:c8:82:e1,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:95:fb:70,[WPA2-EAP-CCMP][ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:82:b4,[WPS][ESS],2427 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:76:5a,[ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CITYRAMA WIFI",04:f0:21:2c:f1:22,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745446,""
+1564745432000,(38.708769150, -9.137020310),95.87542724609375,20.368
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:c8:82:e0,[WPA2-EAP-CCMP][ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:c8:82:e1,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:95:fb:70,[WPA2-EAP-CCMP][ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:82:b4,[WPS][ESS],2427 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:76:5a,[ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CITYRAMA WIFI",04:f0:21:2c:f1:22,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745456,""
+1564745442000,(38.708721600, -9.136998560),98.275634765625,22.512001
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:c8:82:e0,[WPA2-EAP-CCMP][ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:c8:82:e1,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:a0:4a:d0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2417 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:95:fb:70,[WPA2-EAP-CCMP][ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:82:b4,[WPS][ESS],2427 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:76:5a,[ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CITYRAMA WIFI",04:f0:21:2c:f1:22,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564745464,""
+1564745452000,(38.708665770, -9.136993780),101.06304931640625,24.656
+"DIRECT-cc-HP M203 LaserJet",92:cd:b6:47:62:cc,[WPA2-PSK-CCMP][WPS][ESS][P2P],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone",fa:e9:4e:c0:7f:ca,[WPA2-PSK-CCMP][ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"*TUGE24190361621 百度翻译",7c:ba:cc:00:f0:e7,[WPA2-PSK-CCMP][WPS][ESS],2427 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:67:48:80,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2427 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:82:b4,[WPS][ESS],2427 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HotSpot",a0:3d:6f:78:fd:c0,[WPA2-PSK-CCMP+TKIP][PMF-OPT][ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_AC9F",94:27:90:3a:ac:9f,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2422 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingCorp",84:3d:c6:c8:82:e0,[WPA2-EAP-CCMP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RingGuest",84:3d:c6:c8:82:e1,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+

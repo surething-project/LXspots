@@ -1,0 +1,1423 @@
+1564654134,""
+1564654102000,(38.709693571, -9.133751081),75.58223881479353,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-52 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-8E6369",9c:97:26:8e:63:69,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ThomsonBE1F8E",00:24:17:be:1f:8e,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654144,""
+1564654146000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-92 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654154,""
+1564654156000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-51 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-51 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-92 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-F3A8A7",58:98:35:f3:a8:a7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654164,""
+1564654166000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-52 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-51 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-91 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-F3A8A7",58:98:35:f3:a8:a7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"EMPORIUM3",9c:97:26:7d:25:93,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-WiFi",9e:97:26:7d:25:94,[ESS],2437 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654174,""
+1564654176000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-51 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-50 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-91 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"EMPORIUM3",9c:97:26:7d:25:93,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-WiFi",9e:97:26:7d:25:94,[ESS],2437 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CITYRAMA WIFI",04:f0:21:2c:ec:bd,[ESS],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654184,""
+1564654186000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-46 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-47 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CITYRAMA WIFI",04:f0:21:2c:ec:bd,[ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_7C54",5c:77:76:cd:7c:54,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2447 MHz,-87 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"NOS_Internet_Movel_BF51",9c:4f:cf:c3:bf:51,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"St�Antonio�3",00:1c:df:e4:8c:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2422 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_9656",e4:e1:30:7c:96:56,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2452 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ERROR224",58:98:35:90:32:8d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-0541D0",9c:97:26:05:41:d0,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654194,""
+1564654196000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CITYRAMA WIFI",04:f0:21:2c:ec:bd,[ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_7C54",5c:77:76:cd:7c:54,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2447 MHz,-87 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"NOS_Internet_Movel_BF51",9c:4f:cf:c3:bf:51,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"St�Antonio�3",00:1c:df:e4:8c:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2422 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_9656",e4:e1:30:7c:96:56,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2452 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ERROR224",58:98:35:90:32:8d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-0541D0",9c:97:26:05:41:d0,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654204,""
+1564654206000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_7C54",5c:77:76:cd:7c:54,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2447 MHz,-83 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"NOS_Internet_Movel_BF51",9c:4f:cf:c3:bf:51,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_9656",e4:e1:30:7c:96:56,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2452 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Classic-Portugal",e4:e1:30:d5:89:73,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654214,""
+1564654216000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_7C54",5c:77:76:cd:7c:54,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2447 MHz,-83 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"NOS_Internet_Movel_BF51",9c:4f:cf:c3:bf:51,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_9656",e4:e1:30:7c:96:56,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2452 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Classic-Portugal",e4:e1:30:d5:89:73,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-WiFi",00:06:91:40:ae:d2,[ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654224,""
+1564654226000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_BF51",9c:4f:cf:c3:bf:51,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_9656",e4:e1:30:7c:96:56,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2452 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Classic-Portugal",e4:e1:30:d5:89:73,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2462 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-WiFi",00:06:91:40:ae:d2,[ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"St�Antonio�3",00:1c:df:e4:8c:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2422 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654234,""
+1564654236000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_BF51",9c:4f:cf:c3:bf:51,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_9656",e4:e1:30:7c:96:56,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2452 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Classic-Portugal",e4:e1:30:d5:89:73,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2462 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"St�Antonio�3",00:1c:df:e4:8c:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2422 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"WLAN",32:c3:d9:46:43:fe,[WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AP4B",00:06:91:3f:e0:e0,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-WiFi",00:06:91:3f:e0:e2,[ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654244,""
+1564654246000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Classic-Portugal",e4:e1:30:d5:89:73,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2462 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"WLAN",32:c3:d9:46:43:fe,[WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-BD428C",58:98:35:bd:42:8c,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:89:93,[ESS],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"EMPORIUM3",9c:97:26:7d:25:93,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-89 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"MEO-WiFi",9e:97:26:7d:25:94,[ESS],2437 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654255,""
+1564654256000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Classic-Portugal",e4:e1:30:d5:89:73,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2462 MHz,-77 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"WLAN",32:c3:d9:46:43:fe,[WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-BD428C",58:98:35:bd:42:8c,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:89:93,[ESS],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"EMPORIUM3",9c:97:26:7d:25:93,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-89 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"MEO-WiFi",9e:97:26:7d:25:94,[ESS],2437 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_5CCB",e4:e1:30:9f:5c:cb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2432 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Chicca",aa:db:03:46:59:79,[WPA2-PSK-CCMP][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654264,""
+1564654266000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Classic-Portugal",e4:e1:30:d5:89:73,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2462 MHz,-77 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"WLAN",32:c3:d9:46:43:fe,[WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-BD428C",58:98:35:bd:42:8c,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:89:93,[ESS],2437 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_5CCB",e4:e1:30:9f:5c:cb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2432 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Chicca",aa:db:03:46:59:79,[WPA2-PSK-CCMP][ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654274,""
+1564654276000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"WLAN",32:c3:d9:46:43:fe,[WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-BD428C",58:98:35:bd:42:8c,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:89:93,[ESS],2437 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Chicca",aa:db:03:46:59:79,[WPA2-PSK-CCMP][ESS],2462 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ERROR224",58:98:35:90:32:8d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-90 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564654284,""
+1564654286000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-BD428C",58:98:35:bd:42:8c,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:89:93,[ESS],2437 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Chicca",aa:db:03:46:59:79,[WPA2-PSK-CCMP][ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ERROR224",58:98:35:90:32:8d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-90 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"St�Antonio�3",00:1c:df:e4:8c:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2422 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654294,""
+1564654296000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:89:93,[ESS],2437 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Chicca",aa:db:03:46:59:79,[WPA2-PSK-CCMP][ESS],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"St�Antonio�3",00:1c:df:e4:8c:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2422 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654304,""
+1564654306000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Chicca",aa:db:03:46:59:79,[WPA2-PSK-CCMP][ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-BD428C",58:98:35:bd:42:8c,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"EMPORIUM3",9c:97:26:7d:25:93,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654314,""
+1564654316000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-52 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Chicca",aa:db:03:46:59:79,[WPA2-PSK-CCMP][ESS],2462 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-BD428C",58:98:35:bd:42:8c,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"EMPORIUM3",9c:97:26:7d:25:93,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:89:93,[ESS],2437 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654324,""
+1564654326000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Chicca",aa:db:03:46:59:79,[WPA2-PSK-CCMP][ESS],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:89:93,[ESS],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ERROR224",58:98:35:90:32:8d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-87 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564654334,""
+1564654336000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Chicca",aa:db:03:46:59:79,[WPA2-PSK-CCMP][ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:89:93,[ESS],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ERROR224",58:98:35:90:32:8d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-87 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654344,""
+1564654346000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Chicca",aa:db:03:46:59:79,[WPA2-PSK-CCMP][ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:89:93,[ESS],2437 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-WiFi",9e:97:26:7d:25:94,[ESS],2437 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654354,""
+1564654356000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:89:93,[ESS],2437 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-WiFi",9e:97:26:7d:25:94,[ESS],2437 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654364,""
+1564654366000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-WiFi",9e:97:26:7d:25:94,[ESS],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2422 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"EMPORIUM3",9c:97:26:7d:25:93,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654375,""
+1564654376000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-WiFi",9e:97:26:7d:25:94,[ESS],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2422 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"EMPORIUM3",9c:97:26:7d:25:93,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654385,""
+1564654386000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-WiFi",9e:97:26:7d:25:94,[ESS],2437 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"EMPORIUM3",9c:97:26:7d:25:93,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"abcd1234",e2:5f:45:81:fb:44,[WPA2-PSK-CCMP][ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-89 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ERROR224",58:98:35:90:32:8d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654395,""
+1564654396000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-WiFi",9e:97:26:7d:25:94,[ESS],2437 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"EMPORIUM3",9c:97:26:7d:25:93,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"abcd1234",e2:5f:45:81:fb:44,[WPA2-PSK-CCMP][ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-89 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ERROR224",58:98:35:90:32:8d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_C265",e4:e1:30:da:c2:65,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2472 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"GLKTB00236",f4:b8:5e:df:84:3a,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654405,""
+1564654406000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"EMPORIUM3",9c:97:26:7d:25:93,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"abcd1234",e2:5f:45:81:fb:44,[WPA2-PSK-CCMP][ESS],2412 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-90 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_C265",e4:e1:30:da:c2:65,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2472 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"GLKTB00236",f4:b8:5e:df:84:3a,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-40AED0",00:06:91:40:ae:d0,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-WiFi",00:06:91:40:ae:d2,[ESS],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654415,""
+1564654416000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"abcd1234",e2:5f:45:81:fb:44,[WPA2-PSK-CCMP][ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-90 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_C265",e4:e1:30:da:c2:65,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2472 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"GLKTB00236",f4:b8:5e:df:84:3a,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-40AED0",00:06:91:40:ae:d0,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-WiFi",00:06:91:40:ae:d2,[ESS],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2422 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-BD428C",58:98:35:bd:42:8c,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654425,""
+1564654426000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"abcd1234",e2:5f:45:81:fb:44,[WPA2-PSK-CCMP][ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_C265",e4:e1:30:da:c2:65,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2472 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"GLKTB00236",f4:b8:5e:df:84:3a,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2422 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-40AED0",00:06:91:40:ae:d0,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-WiFi",9e:97:26:7d:25:94,[ESS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654435,""
+1564654436000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"abcd1234",e2:5f:45:81:fb:44,[WPA2-PSK-CCMP][ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_C265",e4:e1:30:da:c2:65,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2472 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"GLKTB00236",f4:b8:5e:df:84:3a,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2422 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-40AED0",00:06:91:40:ae:d0,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-WiFi",9e:97:26:7d:25:94,[ESS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654445,""
+1564654446000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"abcd1234",e2:5f:45:81:fb:44,[WPA2-PSK-CCMP][ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2422 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-40AED0",00:06:91:40:ae:d0,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_7C54",5c:77:76:cd:7c:54,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2447 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"St�Antonio�3",00:1c:df:e4:8c:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2422 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654455,""
+1564654456000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"abcd1234",e2:5f:45:81:fb:44,[WPA2-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2422 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-40AED0",00:06:91:40:ae:d0,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_7C54",5c:77:76:cd:7c:54,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2447 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"St�Antonio�3",00:1c:df:e4:8c:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2422 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-87 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-WiFi",00:06:91:40:ae:d2,[ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-WiFi",9e:97:26:7d:25:94,[ESS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654465,""
+1564654466000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"abcd1234",e2:5f:45:81:fb:44,[WPA2-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-40AED0",00:06:91:40:ae:d0,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_7C54",5c:77:76:cd:7c:54,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2447 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-88 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-WiFi",00:06:91:40:ae:d2,[ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-WiFi",9e:97:26:7d:25:94,[ESS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654474,""
+1564654476000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"abcd1234",e2:5f:45:81:fb:44,[WPA2-PSK-CCMP][ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_7C54",5c:77:76:cd:7c:54,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2447 MHz,-76 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-86 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-WiFi",9e:97:26:7d:25:94,[ESS],2437 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"St�Antonio�3",00:1c:df:e4:8c:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2422 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ELETRICO 12",58:98:35:3a:4c:15,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654484,""
+1564654486000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"abcd1234",e2:5f:45:81:fb:44,[WPA2-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2422 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-8E6369",9c:97:26:8e:63:69,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-F3A8A7",58:98:35:f3:a8:a7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654494,""
+1564654496000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-48 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-48 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"abcd1234",e2:5f:45:81:fb:44,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2422 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-8E6369",9c:97:26:8e:63:69,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-F3A8A7",58:98:35:f3:a8:a7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654504,""
+1564654506000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-49 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-49 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"abcd1234",e2:5f:45:81:fb:44,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654514,""
+1564654516000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-51 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-49 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654525,""
+1564654526000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-52 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-52 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2457 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654535,""
+1564654536000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-51 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-50 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Classic-Portugal",e4:e1:30:d5:89:73,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2462 MHz,-76 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"MW40V_DB4F",e4:e1:30:9d:db:4f,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2467 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654545,""
+1564654546000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_DB4F",e4:e1:30:9d:db:4f,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2467 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:89:b3,[ESS],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-F3A8A7",58:98:35:f3:a8:a7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654554,""
+1564654556000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-51 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_DB4F",e4:e1:30:9d:db:4f,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2467 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:89:b3,[ESS],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-F3A8A7",58:98:35:f3:a8:a7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654564,""
+1564654566000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_5BE2",e0:e6:2e:62:5b:e2,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2472 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654575,""
+1564654576000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_5BE2",e0:e6:2e:62:5b:e2,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2472 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2422 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-94 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654585,""
+1564654586000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_5BE2",e0:e6:2e:62:5b:e2,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2472 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2422 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-94 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654594,""
+1564654596000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654604,""
+1564654606000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-52 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-51 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654615,""
+1564654616000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654624,""
+1564654626000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Classic-Portugal",e4:e1:30:d5:89:73,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2462 MHz,-76 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654635,""
+1564654636000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Classic-Portugal",e4:e1:30:d5:89:73,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2462 MHz,-80 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654645,""
+1564654646000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Classic-Portugal",e4:e1:30:d5:89:73,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2462 MHz,-80 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-7A3659",b0:c1:9e:7a:36:59,[WPA2-PSK-CCMP][ESS],2442 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2422 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P30 Pro",30:a1:fa:f6:36:d5,[WPA2-PSK-CCMP][ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-FERREIRA",58:98:35:bb:6a:51,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654655,""
+1564654656000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-7A3659",b0:c1:9e:7a:36:59,[WPA2-PSK-CCMP][ESS],2442 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2422 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P30 Pro",30:a1:fa:f6:36:d5,[WPA2-PSK-CCMP][ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-FERREIRA",58:98:35:bb:6a:51,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654665,""
+1564654666000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-51 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-51 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-7A3659",b0:c1:9e:7a:36:59,[WPA2-PSK-CCMP][ESS],2442 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2422 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P30 Pro",30:a1:fa:f6:36:d5,[WPA2-PSK-CCMP][ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:86:de,[ESS],2437 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654675,""
+1564654676000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone do Affonso Sala",fe:08:0f:5e:2a:cc,[WPA2-PSK-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-7A3659",b0:c1:9e:7a:36:59,[WPA2-PSK-CCMP][ESS],2442 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2422 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P30 Pro",30:a1:fa:f6:36:d5,[WPA2-PSK-CCMP][ESS],2462 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:86:de,[ESS],2437 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654685,""
+1564654686000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-7A3659",b0:c1:9e:7a:36:59,[WPA2-PSK-CCMP][ESS],2442 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P30 Pro",30:a1:fa:f6:36:d5,[WPA2-PSK-CCMP][ESS],2462 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:86:de,[ESS],2437 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:82:36,[WPS][ESS],2472 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654695,""
+1564654696000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-7A3659",b0:c1:9e:7a:36:59,[WPA2-PSK-CCMP][ESS],2442 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P30 Pro",30:a1:fa:f6:36:d5,[WPA2-PSK-CCMP][ESS],2462 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:82:36,[WPS][ESS],2472 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"St�Antonio�3",00:1c:df:e4:8c:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2422 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654705,""
+1564654706000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-52 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-52 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P30 Pro",30:a1:fa:f6:36:d5,[WPA2-PSK-CCMP][ESS],2462 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:82:36,[WPS][ESS],2472 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-603E29",90:2b:d2:31:60:3e,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"St�Antonio�3",00:1c:df:e4:8c:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2422 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_BF51",9c:4f:cf:c3:bf:51,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2422 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654715,""
+1564654716000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-52 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Staff",00:50:18:68:82:36,[WPS][ESS],2472 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_BF51",9c:4f:cf:c3:bf:51,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2422 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:a7:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2427 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654725,""
+1564654726000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P30 Pro",30:a1:fa:f6:36:d5,[WPA2-PSK-CCMP][ESS],2462 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-7A3659",b0:c1:9e:7a:36:59,[WPA2-PSK-CCMP][ESS],2442 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654735,""
+1564654736000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P30 Pro",30:a1:fa:f6:36:d5,[WPA2-PSK-CCMP][ESS],2462 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-7A3659",b0:c1:9e:7a:36:59,[WPA2-PSK-CCMP][ESS],2442 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:86:de,[ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654745,""
+1564654746000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-7A3659",b0:c1:9e:7a:36:59,[WPA2-PSK-CCMP][ESS],2442 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:86:de,[ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654755,""
+1564654756000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-4DEF58",fc:2d:5e:4d:ef:58,[WPA2-PSK-CCMP][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654765,""
+1564654766000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-4DEF58",fc:2d:5e:4d:ef:58,[WPA2-PSK-CCMP][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",aa:db:03:93:2b:bd,[WPA2-PSK-CCMP][ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654775,""
+1564654776000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",aa:db:03:93:2b:bd,[WPA2-PSK-CCMP][ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RETALIS WI FI",5c:77:76:68:4a:8e,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2472 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654785,""
+1564654786000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RETALIS WI FI",5c:77:76:68:4a:8e,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2472 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-F3A8A7",58:98:35:f3:a8:a7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_669C",5c:77:76:1b:66:9c,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2442 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654795,""
+1564654796000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"RETALIS WI FI",5c:77:76:68:4a:8e,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2472 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-F3A8A7",58:98:35:f3:a8:a7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_669C",5c:77:76:1b:66:9c,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2442 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654805,""
+1564654806000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654815,""
+1564654816000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"St�Antonio�3",00:1c:df:e4:8c:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2422 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654825,""
+1564654826000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"St�Antonio�3",00:1c:df:e4:8c:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2422 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654835,""
+1564654836000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-92 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564654845,""
+1564654846000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-52 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-90 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"manuela",00:26:44:54:d9:25,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F19A25",3a:f8:89:09:f1:9b,[WPA2-PSK-CCMP][ESS],2412 MHz,-85 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564654855,""
+1564654856000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-94 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"manuela",00:26:44:54:d9:25,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F19A25",3a:f8:89:09:f1:9b,[WPA2-PSK-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Wi-Fi CARRIS",04:f0:21:45:88:7f,[ESS],2437 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654865,""
+1564654866000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-94 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F19A25",3a:f8:89:09:f1:9b,[WPA2-PSK-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Wi-Fi CARRIS",04:f0:21:45:88:7f,[ESS],2437 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:78:0a,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654875,""
+1564654876000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-92 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:88:7f,[ESS],2437 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Wi-Fi CARRIS",04:f0:21:45:78:0a,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"manuela",00:26:44:54:d9:25,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-94 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654885,""
+1564654886000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-94 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"manuela",00:26:44:54:d9:25,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-94 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Classic-Portugal",e4:e1:30:d5:89:73,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F19A25",3a:f8:89:09:f1:9b,[WPA2-PSK-CCMP][ESS],2412 MHz,-86 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564654895,""
+1564654896000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-94 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Classic-Portugal",e4:e1:30:d5:89:73,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F19A25",3a:f8:89:09:f1:9b,[WPA2-PSK-CCMP][ESS],2412 MHz,-86 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"WLAN",32:c3:d9:46:43:fe,[WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654905,""
+1564654906000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"St�Antonio�3",00:1c:df:e4:8c:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2422 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654915,""
+1564654916000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"St�Antonio�3",00:1c:df:e4:8c:83,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2422 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654925,""
+1564654926000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P20 lite",90:2b:d2:2b:6a:94,[WPA2-PSK-CCMP][ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654935,""
+1564654936000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-55 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P20 lite",90:2b:d2:2b:6a:94,[WPA2-PSK-CCMP][ESS],2412 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654945,""
+1564654946000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P20 lite",90:2b:d2:2b:6a:94,[WPA2-PSK-CCMP][ESS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654955,""
+1564654956000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P20 lite",90:2b:d2:2b:6a:94,[WPA2-PSK-CCMP][ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2422 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654965,""
+1564654966000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P20 lite",90:2b:d2:2b:6a:94,[WPA2-PSK-CCMP][ESS],2412 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-91 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564654975,""
+1564654976000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P20 lite",90:2b:d2:2b:6a:94,[WPA2-PSK-CCMP][ESS],2412 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-91 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"abcd1234",e2:5f:45:81:fb:44,[WPA2-PSK-CCMP][ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654985,""
+1564654986000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P20 lite",90:2b:d2:2b:6a:94,[WPA2-PSK-CCMP][ESS],2412 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"abcd1234",e2:5f:45:81:fb:44,[WPA2-PSK-CCMP][ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Classic-Portugal",e4:e1:30:d5:89:73,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564654995,""
+1564654996000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P20 lite",90:2b:d2:2b:6a:94,[WPA2-PSK-CCMP][ESS],2412 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:ee,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"sedelisboa",b8:94:36:a8:ba:03,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2452 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"abcd1234",e2:5f:45:81:fb:44,[WPA2-PSK-CCMP][ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Classic-Portugal",e4:e1:30:d5:89:73,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564655005,""
+1564655006000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P20 lite",90:2b:d2:2b:6a:94,[WPA2-PSK-CCMP][ESS],2412 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"abcd1234",e2:5f:45:81:fb:44,[WPA2-PSK-CCMP][ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"WLAN",32:c3:d9:46:43:fe,[WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"GLKTB00236",f4:b8:5e:df:84:3a,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-90 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564655015,""
+1564655016000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-51 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-52 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P20 lite",90:2b:d2:2b:6a:94,[WPA2-PSK-CCMP][ESS],2412 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"abcd1234",e2:5f:45:81:fb:44,[WPA2-PSK-CCMP][ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"WLAN",32:c3:d9:46:43:fe,[WPA2-PSK-CCMP][WPS][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"GLKTB00236",f4:b8:5e:df:84:3a,[WPA2-PSK-CCMP][WPS][ESS],2417 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Thomson4B59D0",10:fe:ed:c3:62:e4,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-90 dBm,CenterFreq0 2432 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"MW40V_FA10",e0:e6:2e:44:fa:10,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2447 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"SantoAntonio",30:74:96:97:aa:94,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2422 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564655025,""
+1564655026000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-52 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P20 lite",90:2b:d2:2b:6a:94,[WPA2-PSK-CCMP][ESS],2412 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"abcd1234",e2:5f:45:81:fb:44,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564655035,""
+1564655036000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-66 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-59 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P20 lite",90:2b:d2:2b:6a:94,[WPA2-PSK-CCMP][ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"abcd1234",e2:5f:45:81:fb:44,[WPA2-PSK-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_Movel_981D",e0:e6:2e:ef:98:1d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2457 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"crista",00:1f:9f:4c:b2:73,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564655045,""
+1564655046000,(38.709460596, -9.133420784),108.10880534537137,4.9
+"Quiosque Lisboa",82:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_6A85C7",c4:ea:1d:6a:85:c7,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"QL",80:2a:a8:f7:f8:04,[WPA2-PSK-CCMP][ESS],2412 MHz,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_Internet_7DFB",b4:86:55:4d:7d:fb,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2442 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"aposentadoria",f8:32:e4:45:86:00,[WPA2-PSK-CCMP][WPS][ESS],2457 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P20 lite",90:2b:d2:2b:6a:94,[WPA2-PSK-CCMP][ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"abcd1234",e2:5f:45:81:fb:44,[WPA2-PSK-CCMP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-008B2D",30:91:8f:00:8b:2d,[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Igreja SantoAntonio",fc:ec:da:3e:92:1f,[ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+

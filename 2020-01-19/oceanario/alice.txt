@@ -1,0 +1,1122 @@
+1579448096,""
+1579448069168,(38.762709077, -9.094177269),58.85899251214113,8.0
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P9 lite mini",e2:62:67:48:bd:2b,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-82 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-86 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-88 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448106,""
+1579448107000,(38.762653716, -9.093967496),86.66027069932197,12.0
+"HUAWEI P9 lite mini",e2:62:67:48:bd:2b,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-83 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-89 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448116,""
+1579448117000,(38.762652072, -9.094078772),70.12069707229048,8.0
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-79 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS-0EE5",2c:a1:7d:75:0e:e5,[WPA2-PSK-CCMP][ESS][WPS],2422 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P9 lite mini",e2:62:67:48:bd:2b,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-86 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448124,""
+1579448125000,(38.762648643, -9.094173313),62.40276842718459,8.0
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-80 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Proj1450_iutgbbHjEauKC879xopo0a",94:91:7f:17:d5:7d,[WPA2-PSK-CCMP][ESS][WPS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P9 lite mini",e2:62:67:48:bd:2b,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TP_BAR",8c:5b:f0:76:f3:74,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448136,""
+1579448137000,(38.762653582, -9.094164814),62.50299524629792,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-84 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"HUAWEI P9 lite mini",e2:62:67:48:bd:2b,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448146,""
+1579448147000,(38.762654862, -9.094164567),61.95027747749694,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-80 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO4G",a4:71:74:38:0f:66,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448156,""
+1579448157000,(38.762653604, -9.094163449),61.75345797854382,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-83 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-87 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-87 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448166,""
+1579448167000,(38.762647563, -9.094162244),61.07768127036313,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-84 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-87 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO4G",a4:71:74:38:0f:66,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"HUAWEI P9 lite mini",e2:62:67:48:bd:2b,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448176,""
+1579448177000,(38.762634897, -9.094146533),62.092481263227114,4.0
+"MEO4G",a4:71:74:38:0f:66,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"NOS_WIFI_Fon",bc:14:01:a2:c0:49,[ESS],2422 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-84 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448186,""
+1579448187000,(38.762629093, -9.094130527),64.09647347451535,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO4G",a4:71:74:38:0f:66,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-86 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-87 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448196,""
+1579448197000,(38.762628094, -9.094130714),65.08358848560415,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-78 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"MEO4G",a4:71:74:38:0f:66,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-83 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448206,""
+1579448207000,(38.762634249, -9.094128898),66.57800550054422,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO4G",a4:71:74:38:0f:66,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-85 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-85 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-88 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-88 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Proj1450_iutgbbHjEauKC879xopo0a",94:91:7f:17:d5:7d,[WPA2-PSK-CCMP][ESS][WPS],2462 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448216,""
+1579448217000,(38.762638533, -9.094130103),66.63828483362848,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO4G",a4:71:74:38:0f:66,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-82 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-85 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-87 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448226,""
+1579448227000,(38.762650766, -9.094131205),66.85085898670751,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO4G",a4:71:74:38:0f:66,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-85 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-85 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TP_BAR",8c:5b:f0:76:f3:74,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448236,""
+1579448237000,(38.762658752, -9.094127079),67.5502235843101,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-83 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-84 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-87 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-87 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Vodafone-707BF7",5c:54:6d:70:7c:00,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448246,""
+1579448247000,(38.762659590, -9.094118861),67.51944971137927,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-81 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-82 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-84 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"MEO4G",a4:71:74:38:0f:66,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"CABLUE3",44:6e:e5:c4:5f:48,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS],2447 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448256,""
+1579448257000,(38.762661090, -9.094101585),67.16995438362667,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-84 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-84 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO4G",a4:71:74:38:0f:66,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-87 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-88 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Vodafone-707BF7",5c:54:6d:70:7c:00,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448266,""
+1579448267000,(38.762659718, -9.094085344),67.42637691876898,4.0
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-83 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO4G",a4:71:74:38:0f:66,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-85 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-89 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448276,""
+1579448277000,(38.762652463, -9.094077538),66.8669323891954,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-83 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-84 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"MEO4G",a4:71:74:38:0f:66,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448286,""
+1579448287000,(38.762654240, -9.094096695),66.00973307172612,6.0
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-82 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Vodafone-707BF7",5c:54:6d:70:7c:00,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448291,""
+1579448291000,(38.762663119, -9.094133757),65.52269573840755,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-83 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-84 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448296,""
+1579448297000,(38.762682966, -9.094148431),65.13537937062691,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-83 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-85 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Vodafone-707BF7",5c:54:6d:70:7c:00,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"iPhone (2)",6e:46:52:db:f1:b9,[WPA2-PSK-CCMP][ESS],2437 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448306,""
+1579448307000,(38.762709871, -9.094153878),65.08560520878125,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-83 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-87 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448316,""
+1579448317000,(38.762715583, -9.094157925),64.63591915055628,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-84 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-84 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-88 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-89 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448326,""
+1579448327000,(38.762717864, -9.094150924),64.77894649409508,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-83 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-85 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"MEO4G",a4:71:74:38:0f:66,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Vodafone-707BF7",5c:54:6d:70:7c:00,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448337,""
+1579448337000,(38.762714822, -9.094149298),65.03498847168903,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-82 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-84 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-87 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448346,""
+1579448347000,(38.762717633, -9.094151334),65.75115277843945,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-87 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Vodafone-707BF7",5c:54:6d:70:7c:00,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448356,""
+1579448357000,(38.762715686, -9.094155213),66.39317923394417,6.0
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-84 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-85 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448366,""
+1579448367000,(38.762703812, -9.094156714),66.2364172052862,6.0
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-82 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-83 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Vodafone-707BF7",5c:54:6d:70:7c:00,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",dc:ce:c1:72:5c:70,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-91 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448377,""
+1579448377000,(38.762697219, -9.094154371),65.81550326695465,6.0
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-82 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-87 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448387,""
+1579448387000,(38.762696575, -9.094144508),65.60307293338306,6.0
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-84 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-85 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Vodafone-707BF7",5c:54:6d:70:7c:00,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2442 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-87 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-89 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448397,""
+1579448397000,(38.762677808, -9.094131119),64.14161409020433,6.0
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-86 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TP_BAR",8c:5b:f0:76:f3:74,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Vodafone-596331",f8:e8:11:59:63:38,[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2462 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448407,""
+1579448407000,(38.762674931, -9.094121292),63.68515297527081,6.0
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TP_BAR",8c:5b:f0:76:f3:74,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-86 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"HUAWEI P8 lite 2017",a0:57:e3:00:06:9d,[WPA2-PSK-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-90 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ZON-C040",bc:14:01:a2:c0:48,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2422 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448417,""
+1579448417000,(38.762677102, -9.094128971),63.72954573610794,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P8 lite 2017",a0:57:e3:00:06:9d,[WPA2-PSK-CCMP][ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-89 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-92 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448427,""
+1579448427000,(38.762675758, -9.094137720),63.81730925578168,6.0
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-85 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"HUAWEI P8 lite 2017",a0:57:e3:00:06:9d,[WPA2-PSK-CCMP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448437,""
+1579448437000,(38.762684116, -9.094144295),63.94813835632563,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-86 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-88 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-89 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448447,""
+1579448447000,(38.762671721, -9.094146796),64.19444068896875,6.0
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"HUAWEI P8 lite 2017",a0:57:e3:00:06:9d,[WPA2-PSK-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-89 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-90 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448457,""
+1579448457000,(38.762659279, -9.094145348),63.71479554947203,6.0
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-68 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-87 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-89 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-89 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448467,""
+1579448467000,(38.762657084, -9.094145859),63.71384251443313,6.0
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-78 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448477,""
+1579448477000,(38.762654037, -9.094145100),63.533970341475325,6.0
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-89 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-90 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448487,""
+1579448487000,(38.762628435, -9.094176771),63.10373696974827,6.0
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-88 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-89 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-91 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448497,""
+1579448496999,(38.762628915, -9.094177130),62.65952941457161,6.0
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448507,""
+1579448506999,(38.762630299, -9.094176683),62.99528581715642,6.0
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-89 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-90 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448517,""
+1579448516999,(38.762631287, -9.094175753),63.19300926945336,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-86 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-89 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448524,""
+1579448524999,(38.762632082, -9.094174871),63.40832577602482,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-85 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-90 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448537,""
+1579448536999,(38.762633313, -9.094173902),62.988361466698166,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-86 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-86 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"здрав кAndroidAPуук к ",02:16:d4:f8:c4:c6,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-88 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448547,""
+1579448546999,(38.762634174, -9.094172316),62.58744708985143,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-85 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448557,""
+1579448556999,(38.762636023, -9.094170713),62.94835499784485,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-85 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"здрав кAndroidAPуук к ",02:16:d4:f8:c4:c6,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-90 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-F28A29",aa:a6:68:f2:8a:29,[WPA2-PSK-CCMP][ESS][WPS],2442 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448567,""
+1579448566999,(38.762637616, -9.094169987),62.6729777730491,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"здрав кAndroidAPуук к ",02:16:d4:f8:c4:c6,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-88 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-90 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448577,""
+1579448576999,(38.762640512, -9.094166631),63.248084884411526,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"здрав кAndroidAPуук к ",02:16:d4:f8:c4:c6,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TP_BAR",8c:5b:f0:76:f3:74,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-88 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-90 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448587,""
+1579448586999,(38.762624375, -9.094132467),62.93285641095476,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"здрав кAndroidAPуук к ",02:16:d4:f8:c4:c6,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-85 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448597,""
+1579448596999,(38.762624975, -9.094131982),62.288925250557966,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"здрав кAndroidAPуук к ",02:16:d4:f8:c4:c6,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-84 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448607,""
+1579448606999,(38.762626269, -9.094132919),62.216045501247685,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448617,""
+1579448616999,(38.762632912, -9.094135804),62.85462855993297,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"здрав кAndroidAPуук к ",02:16:d4:f8:c4:c6,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Proj1450_iutgbbHjEauKC879xopo0a",94:91:7f:17:d5:7d,[WPA2-PSK-CCMP][ESS][WPS],2462 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448627,""
+1579448626999,(38.762632878, -9.094134266),63.18223404246739,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448637,""
+1579448636999,(38.762632974, -9.094132637),63.423440267411635,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"здрав кAndroidAPуук к ",02:16:d4:f8:c4:c6,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-90 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448647,""
+1579448646999,(38.762634447, -9.094131412),64.23019131838358,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"здрав кAndroidAPуук к ",02:16:d4:f8:c4:c6,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-89 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448657,""
+1579448656999,(38.762642771, -9.094135658),64.56629497490407,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-86 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Baiano",c6:93:d9:eb:9c:9f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448667,""
+1579448666999,(38.762642525, -9.094138621),64.37742723917985,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Baiano",c6:93:d9:eb:9c:9f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-87 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-89 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-91 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448677,""
+1579448676999,(38.762648504, -9.094139631),64.13587428654678,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP862C",10:8e:e0:74:86:2c,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:bc,[WPA2-PSK-CCMP][ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:bb,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448687,""
+1579448686999,(38.762647914, -9.094139044),63.98287124585496,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Baiano",c6:93:d9:eb:9c:9f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:be,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448697,""
+1579448696999,(38.762644217, -9.094139595),64.4180167142056,6.0
+"Baiano",c6:93:d9:eb:9c:9f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-89 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448707,""
+1579448706999,(38.762651092, -9.094137441),64.8781905721735,4.0
+"Baiano",c6:93:d9:eb:9c:9f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448717,""
+1579448716999,(38.762663565, -9.094124455),64.54187062726531,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Baiano",c6:93:d9:eb:9c:9f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448727,""
+1579448726999,(38.762655808, -9.094131505),64.41035361720685,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Baiano",c6:93:d9:eb:9c:9f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-88 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448737,""
+1579448736999,(38.762652717, -9.094128500),63.29215628371351,6.0
+"Baiano",c6:93:d9:eb:9c:9f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448747,""
+1579448746999,(38.762652352, -9.094115815),63.36425582730912,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Baiano",c6:93:d9:eb:9c:9f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448757,""
+1579448756999,(38.762648853, -9.094116917),63.30294688675155,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Baiano",c6:93:d9:eb:9c:9f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-86 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448767,""
+1579448766999,(38.762649243, -9.094121120),62.98741693153485,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-87 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448777,""
+1579448776999,(38.762644741, -9.094123066),63.00070445630387,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Baiano",c6:93:d9:eb:9c:9f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-87 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448787,""
+1579448786999,(38.762635799, -9.094129222),62.88568263628396,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Baiano",c6:93:d9:eb:9c:9f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448797,""
+1579448796999,(38.762631259, -9.094123765),63.38400978548508,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-F28A29",aa:a6:68:f2:8a:29,[WPA2-PSK-CCMP][ESS][WPS],2442 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448807,""
+1579448806999,(38.762623684, -9.094134018),63.33255794669938,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Baiano",c6:93:d9:eb:9c:9f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-F28A29",aa:a6:68:f2:8a:29,[WPA2-PSK-CCMP][ESS][WPS],2442 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-88 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448817,""
+1579448816999,(38.762621702, -9.094134491),63.493986402485135,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Baiano",c6:93:d9:eb:9c:9f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-F28A29",aa:a6:68:f2:8a:29,[WPA2-PSK-CCMP][ESS][WPS],2442 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-82 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"HTC Portable Hotspot 11",02:1a:11:ff:b1:55,[WPA2-PSK-CCMP][ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448824,""
+1579448824999,(38.762620887, -9.094122882),63.20485919632765,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HTC Portable Hotspot 11",02:1a:11:ff:b1:55,[WPA2-PSK-CCMP][ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-86 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-86 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448837,""
+1579448836999,(38.762621291, -9.094118889),63.0207404672085,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-F28A29",aa:a6:68:f2:8a:29,[WPA2-PSK-CCMP][ESS][WPS],2442 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HTC Portable Hotspot 11",02:1a:11:ff:b1:55,[WPA2-PSK-CCMP][ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Baiano",c6:93:d9:eb:9c:9f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP2417",76:eb:80:9f:7a:60,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448847,""
+1579448846999,(38.762627570, -9.094108124),63.417102309170915,4.0
+"MEO-F28A29",aa:a6:68:f2:8a:29,[WPA2-PSK-CCMP][ESS][WPS],2442 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HTC Portable Hotspot 11",02:1a:11:ff:b1:55,[WPA2-PSK-CCMP][ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP2417",76:eb:80:9f:7a:60,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Baiano",c6:93:d9:eb:9c:9f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448857,""
+1579448856999,(38.762623424, -9.094105498),63.81819899693335,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-F28A29",aa:a6:68:f2:8a:29,[WPA2-PSK-CCMP][ESS][WPS],2442 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P8 lite 2017",a0:57:e3:00:06:9d,[WPA2-PSK-CCMP][ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448867,""
+1579448866999,(38.762628802, -9.094099448),63.982568772696624,4.0
+"MEO-F28A29",aa:a6:68:f2:8a:29,[WPA2-PSK-CCMP][ESS][WPS],2442 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"GT21",22:55:2f:ff:6e:1b,[WPA2-PSK-CCMP][ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P8 lite 2017",a0:57:e3:00:06:9d,[WPA2-PSK-CCMP][ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-87 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-94 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448877,""
+1579448876999,(38.762642907, -9.094127138),63.59173866563493,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"GT21",22:55:2f:ff:6e:1b,[WPA2-PSK-CCMP][ESS],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-F28A29",aa:a6:68:f2:8a:29,[WPA2-PSK-CCMP][ESS][WPS],2442 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-89 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448887,""
+1579448886999,(38.762639420, -9.094132627),63.52388405304923,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-F28A29",aa:a6:68:f2:8a:29,[WPA2-PSK-CCMP][ESS][WPS],2442 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"GT21",22:55:2f:ff:6e:1b,[WPA2-PSK-CCMP][ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-88 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Baiano",c6:93:d9:eb:9c:9f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448897,""
+1579448896999,(38.762627521, -9.094166893),63.54454840030279,6.0
+"GT21",22:55:2f:ff:6e:1b,[WPA2-PSK-CCMP][ESS],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-F28A29",aa:a6:68:f2:8a:29,[WPA2-PSK-CCMP][ESS][WPS],2442 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-94 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448907,""
+1579448906999,(38.762627441, -9.094142617),63.11764158069603,6.0
+"GT21",22:55:2f:ff:6e:1b,[WPA2-PSK-CCMP][ESS],2437 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-F28A29",aa:a6:68:f2:8a:29,[WPA2-PSK-CCMP][ESS][WPS],2442 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-88 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448917,""
+1579448916999,(38.762628493, -9.094132274),62.81028303803729,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"GT21",22:55:2f:ff:6e:1b,[WPA2-PSK-CCMP][ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-86 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Baiano",c6:93:d9:eb:9c:9f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Mi Phone",90:78:b2:5c:b3:17,[WPA2-PSK-CCMP][ESS],2457 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448927,""
+1579448926999,(38.762637791, -9.094137578),62.36473209408109,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Mi Phone",90:78:b2:5c:b3:17,[WPA2-PSK-CCMP][ESS],2457 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"GT21",22:55:2f:ff:6e:1b,[WPA2-PSK-CCMP][ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448937,""
+1579448936999,(38.762644113, -9.094137429),62.477698735907175,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Mi Phone",90:78:b2:5c:b3:17,[WPA2-PSK-CCMP][ESS],2457 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-F28A29",aa:a6:68:f2:8a:29,[WPA2-PSK-CCMP][ESS][WPS],2442 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448947,""
+1579448946999,(38.762653391, -9.094149199),61.739843205076106,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"GT21",22:55:2f:ff:6e:1b,[WPA2-PSK-CCMP][ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-F28A29",aa:a6:68:f2:8a:29,[WPA2-PSK-CCMP][ESS][WPS],2442 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448957,""
+1579448956999,(38.762618248, -9.094141462),61.736693043822584,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"GT21",22:55:2f:ff:6e:1b,[WPA2-PSK-CCMP][ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-86 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448967,""
+1579448966999,(38.762611692, -9.094136338),62.03975332145155,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"GT21",22:55:2f:ff:6e:1b,[WPA2-PSK-CCMP][ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-87 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-89 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448977,""
+1579448976999,(38.762611186, -9.094158064),62.34300575712726,6.0
+"GT21",22:55:2f:ff:6e:1b,[WPA2-PSK-CCMP][ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-80 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"MEO-F28A29",aa:a6:68:f2:8a:29,[WPA2-PSK-CCMP][ESS][WPS],2442 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",78:62:56:f4:7b:75,[WPA2-PSK-CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579448987,""
+1579448986999,(38.762649788, -9.094159502),62.026011664159746,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"GT21",22:55:2f:ff:6e:1b,[WPA2-PSK-CCMP][ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2432 MHz,-88 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1579448997,""
+1579448996999,(38.762656434, -9.094146880),61.88177619299815,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"GT21",22:55:2f:ff:6e:1b,[WPA2-PSK-CCMP][ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"HUAWEI P10 lite SG",74:d2:1d:a9:6a:0a,[WPA2-PSK-CCMP][ESS],2437 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1579449000,""
+1579448999999,(38.762661373, -9.094139671),61.994081414468596,6.0
+"GT21",22:55:2f:ff:6e:1b,[WPA2-PSK-CCMP][ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:bf,[WPA2-PSK-CCMP][ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+

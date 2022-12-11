@@ -1,0 +1,1222 @@
+1564921244,""
+1564921213469,(38.762614786, -9.094137094),63.123555659253,24.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-83 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP284D",a8:16:d0:e0:28:4d,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3855",a4:6c:f1:30:fa:48,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921254,""
+1564921255000,(38.762594236, -9.094137174),49.79497576522385,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-83 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-86 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Proj1450_iutgbbHjEauKC879xopo0a",94:91:7f:17:d5:7d,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-88 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921264,""
+1564921265000,(38.762604831, -9.094140795),44.29829635683896,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-84 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"AndroidAP3855",a4:6c:f1:30:fa:48,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921274,""
+1564921275000,(38.762605630, -9.094142454),42.63208082275309,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3855",a4:6c:f1:30:fa:48,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921284,""
+1564921285000,(38.762605630, -9.094142454),38.25067736719182,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",30:cb:f8:7d:2f:6f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-81 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921294,""
+1564921295000,(38.762605630, -9.094142454),38.19871941689393,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",30:cb:f8:7d:2f:6f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-86 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"MEO-24EAD5",aa:a6:68:24:ea:d5,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921304,""
+1564921305000,(38.762605630, -9.094142454),38.368783331095486,8.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",30:cb:f8:7d:2f:6f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-85 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"MEO-24EAD5",aa:a6:68:24:ea:d5,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921314,""
+1564921315000,(38.762605630, -9.094142454),39.366122854360206,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",30:cb:f8:7d:2f:6f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"MEO-24EAD5",aa:a6:68:24:ea:d5,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921324,""
+1564921325000,(38.762605630, -9.094142454),41.38592133533064,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",30:cb:f8:7d:2f:6f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921334,""
+1564921335000,(38.762605630, -9.094142454),41.58058140849085,6.0
+"AndroidAP",30:cb:f8:7d:2f:6f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-24EAD5",aa:a6:68:24:ea:d5,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",f4:dd:9e:a3:60:96,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Proj1450_iutgbbHjEauKC879xopo0a",94:91:7f:17:d5:7d,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-83 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921344,""
+1564921345000,(38.762605630, -9.094142454),41.19806308921391,4.0
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",f4:dd:9e:a3:60:96,[ESS],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",30:cb:f8:7d:2f:6f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-84 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-24EAD5",aa:a6:68:24:ea:d5,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921354,""
+1564921355000,(38.762605630, -9.094142454),41.58643968823888,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",30:cb:f8:7d:2f:6f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",f4:dd:9e:a3:60:96,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921364,""
+1564921365000,(38.762605630, -9.094142454),42.4594046686475,6.0
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-84 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",f4:dd:9e:a3:60:96,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Proj1450_iutgbbHjEauKC879xopo0a",94:91:7f:17:d5:7d,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-86 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"AndroidAP",30:cb:f8:7d:2f:6f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-88 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921374,""
+1564921375000,(38.762605630, -9.094142454),42.61153492066575,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-83 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921384,""
+1564921385000,(38.762605630, -9.094142454),41.80287100062449,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",f4:dd:9e:a3:60:96,[ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-86 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921394,""
+1564921395000,(38.762605630, -9.094142454),41.257713876902834,6.0
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-81 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",f4:dd:9e:a3:60:96,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"AndroidAP",30:cb:f8:7d:2f:6f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921404,""
+1564921405000,(38.762605630, -9.094142454),41.05217402499801,8.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-84 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-89 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"AndroidAP",30:cb:f8:7d:2f:6f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921414,""
+1564921415000,(38.762605630, -9.094142454),36.83386233170297,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",30:cb:f8:7d:2f:6f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-83 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-84 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921424,""
+1564921425000,(38.762605630, -9.094142454),32.05975303293056,6.0
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",f4:dd:9e:a3:60:96,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921434,""
+1564921435000,(38.762605630, -9.094142454),31.142505876530105,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-83 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-86 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP122D",ce:21:19:3f:12:2d,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",30:cb:f8:7d:2f:6f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921444,""
+1564921445000,(38.762633539, -9.094192737),29.76327783191125,6.0
+"",f4:dd:9e:a3:60:96,[ESS],2412 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-86 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"AndroidAP",30:cb:f8:7d:2f:6f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"MEO-24EAD5",aa:a6:68:24:ea:d5,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921454,""
+1564921455000,(38.762633539, -9.094192737),33.760353985074936,6.0
+"AndroidAP",30:cb:f8:7d:2f:6f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921464,""
+1564921465000,(38.762633539, -9.094192737),38.00467935474629,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-83 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",f4:dd:9e:a3:60:96,[ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"AndroidAP",30:cb:f8:7d:2f:6f,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921474,""
+1564921475000,(38.762633539, -9.094192737),39.49377514739958,8.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-84 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-85 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"MEO-24EAD5",aa:a6:68:24:ea:d5,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921484,""
+1564921485000,(38.762633539, -9.094192737),39.449940302142835,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Proj1450_iutgbbHjEauKC879xopo0a",94:91:7f:17:d5:7d,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-83 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921494,""
+1564921495000,(38.762633539, -9.094192737),36.56944037853299,6.0
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-83 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-89 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921504,""
+1564921505000,(38.762633539, -9.094192737),35.773274905916224,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Proj1450_iutgbbHjEauKC879xopo0a",94:91:7f:17:d5:7d,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-81 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MEO-24EAD5",aa:a6:68:24:ea:d5,[WPA2-PSK-CCMP][ESS][WPS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921514,""
+1564921515000,(38.762633539, -9.094192737),37.2387447503512,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921524,""
+1564921525000,(38.762633539, -9.094192737),39.83991730918776,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-89 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921534,""
+1564921535000,(38.762633539, -9.094192737),38.1613791383173,6.0
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-85 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Proj1450_iutgbbHjEauKC879xopo0a",94:91:7f:17:d5:7d,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921544,""
+1564921545000,(38.762633539, -9.094192737),36.05945025365021,6.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-83 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921554,""
+1564921555000,(38.762623459, -9.094225067),36.355301851274426,4.0
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Proj1450_iutgbbHjEauKC879xopo0a",94:91:7f:17:d5:7d,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921564,""
+1564921565000,(38.762623160, -9.094220136),35.348634879146644,4.0
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-84 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-86 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921574,""
+1564921575000,(38.762624815, -9.094216744),33.347422910928884,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-84 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921584,""
+1564921585000,(38.762630178, -9.094189219),33.106173247355905,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921594,""
+1564921595000,(38.762634186, -9.094191650),33.33357727176823,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Proj1450_iutgbbHjEauKC879xopo0a",94:91:7f:17:d5:7d,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-89 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921604,""
+1564921605000,(38.762641353, -9.094201657),33.2453748315757,4.0
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-83 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-83 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-89 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921614,""
+1564921615000,(38.762644003, -9.094205932),32.84748907292081,4.0
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-81 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-89 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-91 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921624,""
+1564921625000,(38.762650978, -9.094211350),32.59966837658782,4.0
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-84 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921634,""
+1564921635000,(38.762654749, -9.094223758),33.157317685578526,4.0
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921644,""
+1564921645000,(38.762657018, -9.094230449),33.596509724533824,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-84 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921654,""
+1564921655000,(38.762661634, -9.094228670),33.17499892212319,4.0
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921664,""
+1564921665000,(38.762666597, -9.094234095),31.769184790062347,4.0
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-83 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921674,""
+1564921675000,(38.762670524, -9.094244372),30.638221203319585,4.0
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-83 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921684,""
+1564921685000,(38.762674210, -9.094254099),29.492093284689222,4.0
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-83 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921694,""
+1564921695000,(38.762675095, -9.094259842),28.944569415613447,4.0
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Proj1450_iutgbbHjEauKC879xopo0a",94:91:7f:17:d5:7d,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Educacao_Oceanario",a0:23:9f:9e:b4:4f,[WPA2-PSK-CCMP][ESS],5260 MHz,-89 dBm,CenterFreq0 5290 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+
+1564921704,""
+1564921705000,(38.762676282, -9.094252564),28.656610198133535,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-80 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-84 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",aa:db:03:da:c9:49,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-89 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921714,""
+1564921715000,(38.762675307, -9.094250788),28.121394377624565,4.0
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-81 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-86 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Proj1450_iutgbbHjEauKC879xopo0a",94:91:7f:17:d5:7d,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921724,""
+1564921725000,(38.762670457, -9.094247995),28.982328517387128,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921734,""
+1564921735000,(38.762665943, -9.094244281),28.984791544265402,4.0
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-80 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Proj1450_iutgbbHjEauKC879xopo0a",94:91:7f:17:d5:7d,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921744,""
+1564921745000,(38.762664846, -9.094237684),28.833569712587416,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-84 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-86 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921754,""
+1564921755000,(38.762663095, -9.094226050),29.23000874577989,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-82 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-83 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921764,""
+1564921765000,(38.762665873, -9.094219333),29.608464465156484,4.0
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-83 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921774,""
+1564921775000,(38.762662983, -9.094218833),29.826138764431096,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-82 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-85 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921784,""
+1564921785000,(38.762658324, -9.094216795),30.977349851249695,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-81 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Proj1450_iutgbbHjEauKC879xopo0a",94:91:7f:17:d5:7d,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921794,""
+1564921795000,(38.762651447, -9.094212742),31.914029702315172,4.0
+"AndroidAP",aa:db:03:da:c9:49,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-81 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921804,""
+1564921805000,(38.762649954, -9.094214176),31.694254404094963,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-80 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",aa:db:03:da:c9:49,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-86 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921814,""
+1564921815000,(38.762650257, -9.094222923),32.24720399965288,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-81 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921824,""
+1564921825000,(38.762646638, -9.094231637),33.37866149237385,4.0
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-81 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921834,""
+1564921835000,(38.762641794, -9.094238347),33.84557570249487,4.0
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-82 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"AndroidAP",aa:db:03:da:c9:49,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921844,""
+1564921845000,(38.762639821, -9.094244333),34.69296203998947,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-82 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone",e6:98:80:99:ee:7d,[WPA2-PSK-CCMP][ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"AndroidAP",aa:db:03:da:c9:49,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921854,""
+1564921855000,(38.762636244, -9.094250986),35.85254189152352,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-83 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-84 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"AndroidAP",aa:db:03:da:c9:49,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921864,""
+1564921865000,(38.762635464, -9.094256666),36.86778127297339,4.0
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-81 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921874,""
+1564921875000,(38.762635106, -9.094261769),37.013133124439705,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-81 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921884,""
+1564921885000,(38.762634872, -9.094256465),37.177614468203885,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-81 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921894,""
+1564921895000,(38.762632508, -9.094253396),37.92728740966171,4.0
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-83 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"AndroidAP",aa:db:03:da:c9:49,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Educacao_Oceanario",a0:23:9f:9e:b4:4f,[WPA2-PSK-CCMP][ESS],5260 MHz,-90 dBm,CenterFreq0 5290 MHz,CenterFreq1 0 MHz,ChannelWidth 2 MHz
+
+1564921904,""
+1564921905000,(38.762634126, -9.094249868),38.06141989031439,4.0
+"AndroidAP",aa:db:03:da:c9:49,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-83 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921914,""
+1564921915000,(38.762637037, -9.094243446),37.87146042490883,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",aa:db:03:da:c9:49,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-84 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921924,""
+1564921925000,(38.762638141, -9.094230060),37.787102924566625,4.0
+"AndroidAP",aa:db:03:da:c9:49,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-82 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921934,""
+1564921935000,(38.762635445, -9.094219652),38.06332184883412,4.0
+"AndroidAP",aa:db:03:da:c9:49,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-83 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-87 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921944,""
+1564921945000,(38.762635690, -9.094212995),37.59954588917176,4.0
+"AndroidAP",aa:db:03:da:c9:49,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-82 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921954,""
+1564921955000,(38.762634228, -9.094211678),37.534945059134486,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-83 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"AndroidAP",aa:db:03:da:c9:49,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921964,""
+1564921965000,(38.762630152, -9.094216455),37.14381093067048,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-82 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921974,""
+1564921975000,(38.762626876, -9.094214308),36.85306422822001,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-82 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564921984,""
+1564921985000,(38.762619116, -9.094212623),37.30733359223753,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-81 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MNVinformatica",94:27:90:5f:ec:9a,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564921994,""
+1564921995000,(38.762617743, -9.094210890),37.88013493954805,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MNVinformatica",94:27:90:5f:ec:9a,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2462 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-82 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564922004,""
+1564922005000,(38.762612608, -9.094214789),37.70064832453226,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-82 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564922014,""
+1564922015000,(38.762605212, -9.094224407),37.35632345993404,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MNVinformatica",94:27:90:5f:ec:9a,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2462 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-82 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564922024,""
+1564922025000,(38.762597638, -9.094243618),36.9626752397842,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MNVinformatica",94:27:90:5f:ec:9a,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2462 MHz,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-82 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",aa:db:03:da:c9:49,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564922034,""
+1564922035000,(38.762593772, -9.094259784),36.59367412823864,4.0
+"MNVinformatica",94:27:90:5f:ec:9a,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-84 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-86 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564922044,""
+1564922045000,(38.762596612, -9.094281076),35.42166063023554,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MNVinformatica",94:27:90:5f:ec:9a,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-82 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-86 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564922054,""
+1564922055000,(38.762608874, -9.094290362),33.88188716410318,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MNVinformatica",94:27:90:5f:ec:9a,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-80 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-82 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",aa:db:03:da:c9:49,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564922064,""
+1564922065000,(38.762612954, -9.094299434),33.41602541928122,4.0
+"AndroidAP",aa:db:03:da:c9:49,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MNVinformatica",94:27:90:5f:ec:9a,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2462 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-83 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564922074,""
+1564922075000,(38.762614081, -9.094295459),33.277542900428635,4.0
+"AndroidAP",aa:db:03:da:c9:49,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-80 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-84 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-85 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-87 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564922084,""
+1564922085000,(38.762609599, -9.094290533),33.73829221427873,4.0
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-81 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",aa:db:03:da:c9:49,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MNVinformatica",94:27:90:5f:ec:9a,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564922094,""
+1564922095000,(38.762609051, -9.094283463),34.066208974105464,4.0
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MNVinformatica",94:27:90:5f:ec:9a,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2462 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-80 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564922104,""
+1564922105000,(38.762608240, -9.094285809),34.51290693831159,4.0
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-77 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-81 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Proj1450_iutgbbHjEauKC879xopo0a",94:91:7f:17:d5:7d,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564922114,""
+1564922115000,(38.762606490, -9.094282186),34.709813684104155,4.0
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-67 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-72 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MNVinformatica",94:27:90:5f:ec:9a,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-82 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-84 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Proj1450_iutgbbHjEauKC879xopo0a",94:91:7f:17:d5:7d,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TP_BAR",8c:5b:f0:76:f3:74,[WPA2-PSK-CCMP][ESS][WPS],2427 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"skgroup_navigator",00:12:af:00:09:74,[WEP][ESS],2422 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564922124,""
+1564922125000,(38.762610927, -9.094275894),34.83706943577996,4.0
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone",e6:98:80:99:ee:7d,[WPA2-PSK-CCMP][ESS],2412 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-81 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"MNVinformatica",94:27:90:5f:ec:9a,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2462 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Proj1450_iutgbbHjEauKC879xopo0a",94:91:7f:17:d5:7d,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TP_BAR",8c:5b:f0:76:f3:74,[WPA2-PSK-CCMP][ESS][WPS],2427 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-89 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
+1564922134,""
+1564922135000,(38.762612209, -9.094259872),36.08809263467112,4.0
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TRANSOL WiFi 19",6c:3b:6b:eb:10:a1,[ESS],2447 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-76 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-82 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Proj1450_iutgbbHjEauKC879xopo0a",94:91:7f:17:d5:7d,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP",aa:db:03:da:c9:49,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2437 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Vodafone-925521",30:91:8f:92:55:21,[WPA2-PSK-CCMP][WPA-PSK-TKIP][ESS][WPS],2437 MHz,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"dlink-49F0",40:9b:cd:a2:49:f0,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS][WPS],2432 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564922144,""
+1564922145000,(38.762613202, -9.094238502),36.568032200470135,4.0
+"iPhone",e6:98:80:99:ee:7d,[WPA2-PSK-CCMP][ESS],2412 MHz,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-71 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-81 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:81:fc,[ESS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MNVinformatica",94:27:90:5f:ec:9a,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2462 MHz,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Proj1450_iutgbbHjEauKC879xopo0a",94:91:7f:17:d5:7d,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-89 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"dlink-49F0",40:9b:cd:a2:49:f0,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS][WPS],2432 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564922150,""
+1564922149000,(38.762607310, -9.094239454),37.25454739834215,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-80 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone",e6:98:80:99:ee:7d,[WPA2-PSK-CCMP][ESS],2412 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MNVinformatica",94:27:90:5f:ec:9a,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Proj1450_iutgbbHjEauKC879xopo0a",94:91:7f:17:d5:7d,[WPA2-PSK-CCMP][ESS][WPS],2437 MHz,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_1",00:1d:aa:ce:2c:e8,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2437 MHz,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"TCL_SUL_2",02:1d:aa:ce:2c:e8,[WPA2-PSK-CCMP][ESS],2437 MHz,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-86 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-87 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3855",a4:6c:f1:30:fa:48,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceano_Azul",34:db:fd:c3:d8:b3,[WPA2-PSK-CCMP][ESS],2412 MHz,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+
+1564922155,""
+1564922149000,(38.762607310, -9.094239454),37.25454739834215,4.0
+"Oceanario",24:a4:3c:11:df:40,[ESS],2437 MHz,-65 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MW40V_92B9",5c:77:76:4c:92:b9,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS],2412 MHz,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"iPhone",e6:98:80:99:ee:7d,[WPA2-PSK-CCMP][ESS],2412 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"MNVinformatica",94:27:90:5f:ec:9a,[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS],2462 MHz,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"VodafoneMobileWiFi-F5C810",36:69:87:f5:c8:10,[WPA2-PSK-CCMP][ESS][WPS],2472 MHz,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",04:18:d6:d5:b5:80,[ESS],2462 MHz,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"AndroidAP3855",a4:6c:f1:30:fa:48,[WPA2-PSK-CCMP][ESS][SEC80][SECD00],2462 MHz,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",24:a4:3c:11:df:50,[ESS],5220 MHz,-83 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"LTC_CV",6c:3b:6b:5f:ae:73,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS],2447 MHz,-85 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"",34:db:fd:c3:d8:b4,[WPA2-PSK-CCMP][WPA-PSK-CCMP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL-Guest",34:db:fd:c3:d8:b1,[WPA2-PSK-CCMP][ESS],2412 MHz,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:83:a2,[ESS],5220 MHz,-88 dBm,CenterFreq0 5230 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",78:8a:20:d4:80:b3,[ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"ODL",34:db:fd:c3:d8:b0,[WPA2-PSK-CCMP][ESS],2412 MHz,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 0 MHz
+"Oceanario",7a:8a:20:d5:80:b3,[ESS],5180 MHz,-88 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+"Oceanario",7a:8a:20:d5:81:fc,[ESS],5180 MHz,-90 dBm,CenterFreq0 5190 MHz,CenterFreq1 0 MHz,ChannelWidth 1 MHz
+
